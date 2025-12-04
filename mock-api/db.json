@@ -1,0 +1,5024 @@
+{
+  "users": [
+    {
+      "id": "615ec3ac-6644-46a9-91e7-b38355dc4449",
+      "email": "Muhammad_Little@yahoo.com",
+      "firstName": "Muhammad",
+      "lastName": "Little",
+      "role": "admin",
+      "fleetIds": [
+        "35154d4a-ad1f-4ff1-ba7e-fa829e68db49",
+        "a9b917d4-9faf-488e-8454-fceada4c98b3"
+      ],
+      "phoneNumber": "(228) 864-6038 x1179",
+      "createdAt": "2025-11-28T02:42:18.234Z",
+      "lastLoginAt": "2025-12-03T15:52:20.937Z"
+    },
+    {
+      "id": "87adec73-99c7-4c86-bbbd-2c79549fe441",
+      "email": "Isaiah_Conn@hotmail.com",
+      "firstName": "Isaiah",
+      "lastName": "Conn",
+      "role": "admin",
+      "fleetIds": [
+        "92c2c45f-c061-4e11-aaf9-505a48bbd473",
+        "d0d240c3-4476-45b6-9b8c-c0a2fd091827"
+      ],
+      "phoneNumber": "1-710-286-0220 x0664",
+      "createdAt": "2025-09-28T05:27:32.936Z",
+      "lastLoginAt": "2025-12-03T04:45:13.008Z"
+    },
+    {
+      "id": "412ab80e-021d-45e3-bb32-4f738b34d38d",
+      "email": "Joany.Russel20@yahoo.com",
+      "firstName": "Joany",
+      "lastName": "Russel",
+      "role": "driver",
+      "fleetIds": [
+        "f2d070de-4f02-4790-957d-a6d7ed883222",
+        "8d010da2-3dee-4dcb-8633-bdfbbf66d1cc"
+      ],
+      "phoneNumber": "1-380-394-8677 x11726",
+      "createdAt": "2025-10-28T06:12:44.613Z",
+      "lastLoginAt": "2025-12-03T23:11:28.942Z"
+    },
+    {
+      "id": "eabbcd26-2a1a-4e6c-8160-57f10b20c7cb",
+      "email": "Christina_Rippin@yahoo.com",
+      "firstName": "Christina",
+      "lastName": "Rippin",
+      "role": "driver",
+      "fleetIds": [
+        "9bb84d99-1227-4df9-a285-82368f85103b",
+        "be6e242a-55be-41bd-a636-9e05c7d7c328"
+      ],
+      "phoneNumber": "(724) 926-2918",
+      "createdAt": "2024-10-28T08:48:57.090Z",
+      "lastLoginAt": "2025-12-03T12:22:01.163Z"
+    },
+    {
+      "id": "bd41c3f7-84c0-446b-a408-6b6548fef617",
+      "email": "Joany_Tromp@hotmail.com",
+      "firstName": "Joany",
+      "lastName": "Tromp",
+      "role": "admin",
+      "fleetIds": [
+        "359a31b6-73a3-47ad-89d8-e3561f836fba",
+        "c30f07f6-adf1-4787-8a1b-5a2098482355"
+      ],
+      "phoneNumber": "1-725-202-9696 x4460",
+      "createdAt": "2024-08-15T16:37:22.296Z",
+      "lastLoginAt": "2025-12-03T15:27:11.071Z"
+    },
+    {
+      "id": "7289a175-061b-4694-8e9d-54dbf78f93f6",
+      "email": "Eleonore_Kutch@yahoo.com",
+      "firstName": "Eleonore",
+      "lastName": "Kutch",
+      "role": "manager",
+      "fleetIds": [
+        "5680f273-b563-436e-b33b-1aa8dd7ab7e4",
+        "2c1c27b8-e9f1-4121-b245-b2ac1d9d1356"
+      ],
+      "phoneNumber": "1-336-763-3129 x1477",
+      "createdAt": "2024-11-16T22:13:23.987Z",
+      "lastLoginAt": "2025-12-04T03:05:19.577Z"
+    },
+    {
+      "id": "f42889ca-2e38-4595-bd95-f1af72d8d529",
+      "email": "Darrel_Heaney50@yahoo.com",
+      "firstName": "Darrel",
+      "lastName": "Heaney",
+      "role": "manager",
+      "fleetIds": [
+        "bbf3a49d-1bf0-4b64-bd3f-3abffe795eef",
+        "cc062fe5-9d80-4f60-baaf-c1823d269444"
+      ],
+      "phoneNumber": "1-761-603-3066 x271",
+      "createdAt": "2025-04-14T18:51:48.874Z",
+      "lastLoginAt": "2025-12-03T05:32:22.649Z"
+    },
+    {
+      "id": "cfb6b361-2c4b-4f68-a667-5d0af2bc409f",
+      "email": "Georgianna.Gleichner-Murazik26@hotmail.com",
+      "firstName": "Georgianna",
+      "lastName": "Gleichner-Murazik",
+      "role": "manager",
+      "fleetIds": [
+        "2f39c401-e810-455f-9985-ceb432bbfdf9",
+        "93e62132-3fde-4c65-8bab-30588abaa532"
+      ],
+      "phoneNumber": "785-479-0009 x54508",
+      "createdAt": "2025-03-03T12:50:12.485Z",
+      "lastLoginAt": "2025-12-03T19:25:50.469Z"
+    },
+    {
+      "id": "d0ee5e9f-d525-4911-aa42-7c1e4a3c1b24",
+      "email": "Elijah_Blanda@yahoo.com",
+      "firstName": "Elijah",
+      "lastName": "Blanda",
+      "role": "admin",
+      "fleetIds": [
+        "05336969-f8d9-4bbc-996b-31b3c9ca58a3",
+        "6058da9c-a90c-4dc3-a2e0-ac89879e6d11"
+      ],
+      "phoneNumber": "882.653.4152 x9889",
+      "createdAt": "2025-02-06T23:25:57.470Z",
+      "lastLoginAt": "2025-12-03T15:46:07.706Z"
+    },
+    {
+      "id": "63b6ab47-9320-4bc4-9c37-0d310ece9ba2",
+      "email": "Alejandrin.Thompson@yahoo.com",
+      "firstName": "Alejandrin",
+      "lastName": "Thompson",
+      "role": "admin",
+      "fleetIds": [
+        "e3e891e5-6397-4dbb-927e-fd5473eb7966",
+        "87a17c7e-dd6a-46fe-836b-2b06afd492b3"
+      ],
+      "phoneNumber": "1-991-938-6177",
+      "createdAt": "2024-03-09T06:44:05.511Z",
+      "lastLoginAt": "2025-12-03T22:04:55.439Z"
+    }
+  ],
+  "fleets": [
+    {
+      "id": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "name": "Raynor, Treutel and Weissnat Fleet",
+      "companyName": "Raynor, Treutel and Weissnat",
+      "contactEmail": "Emmalee_Harris@hotmail.com",
+      "contactPhone": "(834) 775-7414",
+      "address": {
+        "street": "9201 Spring Gardens",
+        "city": "Powlowskifort",
+        "state": "Minnesota",
+        "zipCode": "21773-7499",
+        "country": "USA"
+      },
+      "vehicles": [],
+      "activeServiceRequests": 4,
+      "totalVehicles": 17,
+      "monthlySpend": 42024.75,
+      "createdAt": "2024-01-23T00:44:19.956Z"
+    },
+    {
+      "id": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "name": "Ritchie and Sons Fleet",
+      "companyName": "Ritchie and Sons",
+      "contactEmail": "Noemie.Prosacco@gmail.com",
+      "contactPhone": "(847) 375-9774 x71491",
+      "address": {
+        "street": "50516 Adriana Underpass",
+        "city": "Alexanneberg",
+        "state": "New Jersey",
+        "zipCode": "73321-5706",
+        "country": "USA"
+      },
+      "vehicles": [],
+      "activeServiceRequests": 7,
+      "totalVehicles": 15,
+      "monthlySpend": 31638.36,
+      "createdAt": "2024-10-28T09:32:39.692Z"
+    },
+    {
+      "id": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "name": "Kuphal, Satterfield and Herzog Fleet",
+      "companyName": "Kuphal, Satterfield and Herzog",
+      "contactEmail": "Asha93@yahoo.com",
+      "contactPhone": "(968) 791-6707 x358",
+      "address": {
+        "street": "72822 Schuster Shore",
+        "city": "Nashua",
+        "state": "Maine",
+        "zipCode": "43500-8568",
+        "country": "USA"
+      },
+      "vehicles": [],
+      "activeServiceRequests": 8,
+      "totalVehicles": 12,
+      "monthlySpend": 39917.57,
+      "createdAt": "2023-08-19T04:16:33.257Z"
+    },
+    {
+      "id": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "name": "Runolfsdottir and Sons Fleet",
+      "companyName": "Runolfsdottir and Sons",
+      "contactEmail": "Allison.Mertz32@hotmail.com",
+      "contactPhone": "810-576-7846 x00537",
+      "address": {
+        "street": "4392 Ruecker Lock",
+        "city": "New Dudleyview",
+        "state": "New Hampshire",
+        "zipCode": "52814",
+        "country": "USA"
+      },
+      "vehicles": [],
+      "activeServiceRequests": 2,
+      "totalVehicles": 13,
+      "monthlySpend": 13752.15,
+      "createdAt": "2023-08-10T01:14:57.332Z"
+    },
+    {
+      "id": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "name": "Tromp - Hilll Fleet",
+      "companyName": "Tromp - Hilll",
+      "contactEmail": "Arnold_Hessel@gmail.com",
+      "contactPhone": "(894) 896-5384",
+      "address": {
+        "street": "45893 Railroad Avenue",
+        "city": "Kevenworth",
+        "state": "Missouri",
+        "zipCode": "71266",
+        "country": "USA"
+      },
+      "vehicles": [],
+      "activeServiceRequests": 2,
+      "totalVehicles": 41,
+      "monthlySpend": 16908.34,
+      "createdAt": "2023-05-20T11:02:24.956Z"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "e48a5924-6345-4ac5-8b92-4e3788b7d827",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "GZUB19AWLBPV65127",
+      "make": "Audi",
+      "model": "PT Cruiser",
+      "year": 2022,
+      "licensePlate": "KL26SRT",
+      "currentLocation": {
+        "latitude": 39.3081,
+        "longitude": -72.7667,
+        "address": "230 Terry Estates"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-10-09T15:01:35.957Z",
+      "nextServiceDue": "2026-04-08T13:43:42.805Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "Charger",
+          "size": "219/75R22",
+          "installDate": "2023-12-26T17:44:25.389Z",
+          "mileage": 59676,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Corvette",
+          "size": "206/65R22",
+          "installDate": "2025-08-20T15:49:40.533Z",
+          "mileage": 12696,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "Model Y",
+          "size": "196/63R17",
+          "installDate": "2025-03-06T19:08:33.259Z",
+          "mileage": 60614,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "Durango",
+          "size": "265/74R22",
+          "installDate": "2024-11-24T12:29:11.259Z",
+          "mileage": 60409,
+          "condition": "excellent"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Colleen Padberg",
+      "createdAt": "2024-07-03T15:29:22.248Z"
+    },
+    {
+      "id": "8a80c8b9-a521-4e11-b55d-5bdebe2ca262",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "6YK0KJ4ZEKL930082",
+      "make": "Mahindra & Mahindra",
+      "model": "Malibu",
+      "year": 2023,
+      "licensePlate": "FL59TNX",
+      "currentLocation": {
+        "latitude": 42.9827,
+        "longitude": -75.4249,
+        "address": "80872 Wehner Cove"
+      },
+      "status": "maintenance",
+      "lastServiceDate": "2025-11-01T07:54:56.115Z",
+      "nextServiceDue": "2026-05-13T12:00:30.125Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Escalade",
+          "size": "204/78R15",
+          "installDate": "2025-04-14T00:37:28.401Z",
+          "mileage": 44149,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Charger",
+          "size": "192/51R21",
+          "installDate": "2024-08-02T19:48:40.179Z",
+          "mileage": 9263,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Camry",
+          "size": "247/69R17",
+          "installDate": "2025-06-03T13:42:31.703Z",
+          "mileage": 55632,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Element",
+          "size": "283/67R16",
+          "installDate": "2024-04-20T11:19:14.859Z",
+          "mileage": 36477,
+          "condition": "good"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Betsy Vandervort",
+      "createdAt": "2023-12-25T11:23:45.797Z"
+    },
+    {
+      "id": "404122a1-e53b-45a1-85fe-23925043500a",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "BKDMGECL5VWL09344",
+      "make": "Kia",
+      "model": "Sentra",
+      "year": 2016,
+      "licensePlate": "HP55KHT",
+      "currentLocation": {
+        "latitude": 31.5457,
+        "longitude": -70.3198,
+        "address": "837 Front Street"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-04-13T21:20:57.236Z",
+      "nextServiceDue": "2026-04-18T23:34:38.620Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Wrangler",
+          "size": "262/52R19",
+          "installDate": "2025-06-07T23:48:55.796Z",
+          "mileage": 49484,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Countach",
+          "size": "198/60R19",
+          "installDate": "2025-06-03T05:18:49.454Z",
+          "mileage": 10223,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Model X",
+          "size": "263/56R16",
+          "installDate": "2025-07-12T20:31:59.874Z",
+          "mileage": 49507,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "Fiesta",
+          "size": "209/69R16",
+          "installDate": "2024-10-01T14:05:38.451Z",
+          "mileage": 72644,
+          "condition": "poor"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Mrs. Julie Hermann",
+      "createdAt": "2024-04-25T06:02:26.273Z"
+    },
+    {
+      "id": "2e536171-4c29-4453-8906-3d9da5b40a32",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "BU2428XV9DDW41521",
+      "make": "BYD",
+      "model": "Beetle",
+      "year": 2020,
+      "licensePlate": "AQ59MRA",
+      "currentLocation": {
+        "latitude": 41.7325,
+        "longitude": -71.0622,
+        "address": "45691 Goodwin Turnpike"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-08-31T04:44:43.497Z",
+      "nextServiceDue": "2026-12-01T22:42:43.285Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Malibu",
+          "size": "273/72R21",
+          "installDate": "2024-07-10T10:20:38.139Z",
+          "mileage": 65057,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Land Cruiser",
+          "size": "211/54R19",
+          "installDate": "2024-06-30T03:05:49.623Z",
+          "mileage": 66383,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Spyder",
+          "size": "223/67R18",
+          "installDate": "2024-09-28T02:43:17.792Z",
+          "mileage": 6122,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "911",
+          "size": "253/56R17",
+          "installDate": "2025-06-20T19:55:24.831Z",
+          "mileage": 24697,
+          "condition": "poor"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Micheal Witting",
+      "createdAt": "2025-04-29T13:56:47.652Z"
+    },
+    {
+      "id": "54d291bd-b11e-46e7-b9d5-f85c3bf50497",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "9E8VUX7XVWGS79209",
+      "make": "Ferrari",
+      "model": "Camaro",
+      "year": 2020,
+      "licensePlate": "WQ41AHY",
+      "currentLocation": {
+        "latitude": 30.6972,
+        "longitude": -120.1132,
+        "address": "742 Zboncak Green"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-03-07T15:21:22.964Z",
+      "nextServiceDue": "2026-01-18T18:06:32.697Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Civic",
+          "size": "234/54R15",
+          "installDate": "2025-06-26T03:14:54.396Z",
+          "mileage": 42815,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Altima",
+          "size": "200/58R21",
+          "installDate": "2023-12-24T22:53:39.971Z",
+          "mileage": 48659,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "Expedition",
+          "size": "203/50R22",
+          "installDate": "2025-05-17T01:16:02.633Z",
+          "mileage": 74144,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Explorer",
+          "size": "281/76R17",
+          "installDate": "2025-02-02T05:38:44.090Z",
+          "mileage": 2152,
+          "condition": "fair"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Leo Kuphal",
+      "createdAt": "2024-04-26T15:17:30.364Z"
+    },
+    {
+      "id": "69617e83-2740-4860-9535-2fb214470919",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vin": "H8T6SSVEXSVF79531",
+      "make": "Fiat",
+      "model": "Challenger",
+      "year": 2021,
+      "licensePlate": "LG45AMV",
+      "currentLocation": {
+        "latitude": 46.9673,
+        "longitude": -98.2988,
+        "address": "5296 Balistreri Dam"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-03-12T23:02:26.644Z",
+      "nextServiceDue": "2026-08-16T18:43:50.217Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Escalade",
+          "size": "213/70R21",
+          "installDate": "2024-02-26T10:01:43.465Z",
+          "mileage": 79705,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Charger",
+          "size": "239/64R16",
+          "installDate": "2025-03-26T19:09:17.694Z",
+          "mileage": 15050,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "A4",
+          "size": "254/51R17",
+          "installDate": "2025-08-26T03:26:41.837Z",
+          "mileage": 20896,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Wrangler",
+          "size": "234/55R21",
+          "installDate": "2025-07-19T00:55:07.263Z",
+          "mileage": 43986,
+          "condition": "poor"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Wesley Prohaska",
+      "createdAt": "2025-03-18T13:42:59.883Z"
+    },
+    {
+      "id": "054c76ac-cfd1-4d7b-92a0-ad093ccca3ad",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "W2ABRTVC1KRF85602",
+      "make": "Mitsubishi",
+      "model": "Camry",
+      "year": 2018,
+      "licensePlate": "JP20HRQ",
+      "currentLocation": {
+        "latitude": 39.5799,
+        "longitude": -114.4949,
+        "address": "261 Bradtke Track"
+      },
+      "status": "active",
+      "lastServiceDate": "2025-04-13T12:50:52.260Z",
+      "nextServiceDue": "2026-04-12T02:22:13.529Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Escalade",
+          "size": "210/60R20",
+          "installDate": "2024-02-04T03:48:02.287Z",
+          "mileage": 44554,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "Colorado",
+          "size": "231/51R16",
+          "installDate": "2024-01-10T12:07:33.618Z",
+          "mileage": 11188,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "Jetta",
+          "size": "218/66R15",
+          "installDate": "2025-07-02T12:51:03.565Z",
+          "mileage": 44883,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "CX-9",
+          "size": "199/56R18",
+          "installDate": "2024-11-06T03:52:49.137Z",
+          "mileage": 35064,
+          "condition": "fair"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Judith Erdman",
+      "createdAt": "2024-09-06T12:21:04.316Z"
+    },
+    {
+      "id": "03d0dc8c-6a5a-41f7-b7bc-d7d950b61987",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "AE874UGT0UF547086",
+      "make": "Jeep",
+      "model": "Corvette",
+      "year": 2022,
+      "licensePlate": "BT47UMP",
+      "currentLocation": {
+        "latitude": 46.2947,
+        "longitude": -80.8114,
+        "address": "902 Abigayle Turnpike"
+      },
+      "status": "maintenance",
+      "lastServiceDate": "2025-10-14T13:42:14.362Z",
+      "nextServiceDue": "2026-08-17T01:51:16.484Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "Aventador",
+          "size": "222/72R17",
+          "installDate": "2025-03-16T16:54:41.537Z",
+          "mileage": 67192,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Model T",
+          "size": "202/62R16",
+          "installDate": "2024-01-09T23:44:57.008Z",
+          "mileage": 65263,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "Fortwo",
+          "size": "195/54R15",
+          "installDate": "2023-12-10T20:37:52.983Z",
+          "mileage": 77857,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Spyder",
+          "size": "232/66R16",
+          "installDate": "2025-06-05T08:45:55.113Z",
+          "mileage": 74003,
+          "condition": "poor"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Irma Walsh",
+      "createdAt": "2024-02-11T20:18:03.538Z"
+    },
+    {
+      "id": "f6aee038-87d6-4e59-8f17-c7c0bfd82707",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "70E5K1FHNTSL10396",
+      "make": "Citroën",
+      "model": "Model S",
+      "year": 2022,
+      "licensePlate": "CN34BNL",
+      "currentLocation": {
+        "latitude": 48.8951,
+        "longitude": -70.9021,
+        "address": "46458 Maximus Roads"
+      },
+      "status": "active",
+      "lastServiceDate": "2025-12-03T23:28:02.885Z",
+      "nextServiceDue": "2026-02-19T02:46:42.412Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Model T",
+          "size": "235/79R20",
+          "installDate": "2025-01-23T06:27:28.171Z",
+          "mileage": 33410,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Countach",
+          "size": "211/77R19",
+          "installDate": "2025-07-27T13:18:54.992Z",
+          "mileage": 42278,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "El Camino",
+          "size": "227/80R19",
+          "installDate": "2024-03-06T08:28:45.826Z",
+          "mileage": 27119,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Fiesta",
+          "size": "199/51R21",
+          "installDate": "2024-08-22T11:29:14.153Z",
+          "mileage": 19206,
+          "condition": "fair"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Verna Harber",
+      "createdAt": "2024-04-08T03:27:35.078Z"
+    },
+    {
+      "id": "4e46fe87-1dd2-4cb7-afb9-f13a45475f54",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vin": "8RY33VDWH3KU67451",
+      "make": "Vauxhall",
+      "model": "Silverado",
+      "year": 2019,
+      "licensePlate": "VR30FNZ",
+      "currentLocation": {
+        "latitude": 27.542,
+        "longitude": -101.1711,
+        "address": "9323 Moen Rest"
+      },
+      "status": "maintenance",
+      "lastServiceDate": "2025-01-27T02:33:25.365Z",
+      "nextServiceDue": "2026-07-13T06:14:37.240Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Roadster",
+          "size": "256/59R22",
+          "installDate": "2025-03-11T22:32:22.631Z",
+          "mileage": 39947,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "Escalade",
+          "size": "259/65R18",
+          "installDate": "2024-09-17T06:21:52.112Z",
+          "mileage": 42933,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "2",
+          "size": "251/75R16",
+          "installDate": "2025-06-24T19:00:10.227Z",
+          "mileage": 23422,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "A4",
+          "size": "236/78R19",
+          "installDate": "2023-12-11T21:33:39.171Z",
+          "mileage": 77386,
+          "condition": "excellent"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Gustavo Larkin I",
+      "createdAt": "2024-10-23T17:19:56.504Z"
+    },
+    {
+      "id": "e2ae1544-a87d-4780-b46e-1947ea581776",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "P48BF2HU8NMR23642",
+      "make": "Suzuki",
+      "model": "Charger",
+      "year": 2018,
+      "licensePlate": "VR59YTX",
+      "currentLocation": {
+        "latitude": 25.3486,
+        "longitude": -71.6531,
+        "address": "82381 Marcus Knoll"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-04-23T19:19:24.075Z",
+      "nextServiceDue": "2026-10-10T05:26:48.219Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Explorer",
+          "size": "246/58R22",
+          "installDate": "2025-03-22T00:10:03.816Z",
+          "mileage": 2441,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "911",
+          "size": "257/78R22",
+          "installDate": "2024-07-23T13:34:42.571Z",
+          "mileage": 76187,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "A8",
+          "size": "237/67R18",
+          "installDate": "2024-01-14T05:13:14.343Z",
+          "mileage": 67989,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Camaro",
+          "size": "186/63R20",
+          "installDate": "2025-04-12T11:42:55.030Z",
+          "mileage": 65018,
+          "condition": "fair"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Eva Hansen",
+      "createdAt": "2024-03-17T12:23:06.921Z"
+    },
+    {
+      "id": "bd065820-8f78-4225-b329-1579fd7d9af5",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "3005URN26LU209309",
+      "make": "Volvo",
+      "model": "Cruze",
+      "year": 2021,
+      "licensePlate": "IY85MIT",
+      "currentLocation": {
+        "latitude": 30.4324,
+        "longitude": -111.1837,
+        "address": "31915 Karen Station"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-08-26T21:53:49.346Z",
+      "nextServiceDue": "2025-12-04T08:36:11.669Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Silverado",
+          "size": "215/58R19",
+          "installDate": "2025-05-06T04:13:16.295Z",
+          "mileage": 17633,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "Taurus",
+          "size": "187/72R17",
+          "installDate": "2024-04-15T04:31:55.867Z",
+          "mileage": 62530,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "CTS",
+          "size": "277/61R20",
+          "installDate": "2024-11-03T14:31:12.668Z",
+          "mileage": 56297,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "PT Cruiser",
+          "size": "262/76R19",
+          "installDate": "2025-08-07T19:07:09.682Z",
+          "mileage": 67510,
+          "condition": "good"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Miss Melba Runolfsson",
+      "createdAt": "2025-06-05T22:36:41.457Z"
+    },
+    {
+      "id": "bbd892ab-bb01-4742-8db7-c55173482ddb",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "214WJEM0R2K667530",
+      "make": "Jaguar",
+      "model": "Cruze",
+      "year": 2015,
+      "licensePlate": "HE17OJF",
+      "currentLocation": {
+        "latitude": 38.5934,
+        "longitude": -124.8637,
+        "address": "56369 Medhurst Meadows"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-05-01T06:04:20.734Z",
+      "nextServiceDue": "2026-06-05T05:16:54.660Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Durango",
+          "size": "220/71R20",
+          "installDate": "2025-11-28T08:22:48.631Z",
+          "mileage": 17892,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "F-150",
+          "size": "214/63R16",
+          "installDate": "2024-04-18T12:15:52.086Z",
+          "mileage": 39539,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Escalade",
+          "size": "282/66R19",
+          "installDate": "2024-11-12T00:50:59.929Z",
+          "mileage": 66831,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Mustang",
+          "size": "247/57R22",
+          "installDate": "2024-05-20T22:48:35.061Z",
+          "mileage": 60340,
+          "condition": "fair"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Elijah Denesik PhD",
+      "createdAt": "2024-10-11T09:37:08.934Z"
+    },
+    {
+      "id": "e202941f-5746-456b-b9d5-70190a78fd11",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "TEYXHVWSD0R414156",
+      "make": "Tata",
+      "model": "CX-9",
+      "year": 2018,
+      "licensePlate": "AR25RHN",
+      "currentLocation": {
+        "latitude": 46.0706,
+        "longitude": -96.7751,
+        "address": "18845 Belmont Road"
+      },
+      "status": "maintenance",
+      "lastServiceDate": "2025-08-26T10:17:54.047Z",
+      "nextServiceDue": "2026-02-13T07:33:39.798Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Wrangler",
+          "size": "245/73R20",
+          "installDate": "2025-01-06T16:09:39.207Z",
+          "mileage": 18493,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "1",
+          "size": "270/59R21",
+          "installDate": "2024-06-14T02:49:46.383Z",
+          "mileage": 53297,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "F-150",
+          "size": "240/69R21",
+          "installDate": "2024-04-17T18:06:32.704Z",
+          "mileage": 9648,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Roadster",
+          "size": "198/80R19",
+          "installDate": "2024-04-02T06:40:45.002Z",
+          "mileage": 28930,
+          "condition": "fair"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Verna Robel",
+      "createdAt": "2024-09-06T01:17:07.792Z"
+    },
+    {
+      "id": "4d38b7b5-6fb3-440a-9d8e-c781b2cd78fe",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "Y1SU2AX9JHX254207",
+      "make": "Tesla",
+      "model": "Sentra",
+      "year": 2021,
+      "licensePlate": "SN72NDT",
+      "currentLocation": {
+        "latitude": 36.5754,
+        "longitude": -80.328,
+        "address": "4875 Mill Close"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-01-15T19:58:38.792Z",
+      "nextServiceDue": "2026-08-20T17:19:20.784Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Altima",
+          "size": "269/72R18",
+          "installDate": "2025-05-09T15:35:39.317Z",
+          "mileage": 77348,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Impala",
+          "size": "278/63R16",
+          "installDate": "2025-10-19T09:38:51.129Z",
+          "mileage": 1294,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "Aventador",
+          "size": "241/70R15",
+          "installDate": "2025-07-23T18:13:09.113Z",
+          "mileage": 75192,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Fiesta",
+          "size": "268/67R22",
+          "installDate": "2025-04-06T18:51:33.543Z",
+          "mileage": 26664,
+          "condition": "excellent"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Jorge Rice",
+      "createdAt": "2025-11-29T19:13:41.663Z"
+    },
+    {
+      "id": "0e9b3a7d-1389-47b7-9d8d-a0ccee59dd78",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vin": "LXGG68KMFXN072219",
+      "make": "Jaguar",
+      "model": "A4",
+      "year": 2015,
+      "licensePlate": "QO18CJH",
+      "currentLocation": {
+        "latitude": 35.2811,
+        "longitude": -97.8676,
+        "address": "3786 Hope Green"
+      },
+      "status": "maintenance",
+      "lastServiceDate": "2025-07-30T09:12:32.995Z",
+      "nextServiceDue": "2026-06-07T04:29:51.120Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Fortwo",
+          "size": "249/77R22",
+          "installDate": "2025-01-15T16:14:38.980Z",
+          "mileage": 11720,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Accord",
+          "size": "248/60R20",
+          "installDate": "2025-10-07T19:50:51.543Z",
+          "mileage": 6316,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "Impala",
+          "size": "210/70R17",
+          "installDate": "2024-03-14T17:06:43.420Z",
+          "mileage": 33583,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Model X",
+          "size": "276/79R22",
+          "installDate": "2024-10-25T20:04:07.203Z",
+          "mileage": 45386,
+          "condition": "fair"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Ray Abshire",
+      "createdAt": "2025-10-31T07:47:41.549Z"
+    },
+    {
+      "id": "b5b5fd2e-0188-43e3-88fe-2f7f99a14e5d",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "U7G9XGB9KVFK93699",
+      "make": "Lamborghini",
+      "model": "Grand Cherokee",
+      "year": 2019,
+      "licensePlate": "YR92ZUY",
+      "currentLocation": {
+        "latitude": 27.0225,
+        "longitude": -86.3832,
+        "address": "739 S Park Street"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-06-16T09:37:04.535Z",
+      "nextServiceDue": "2026-09-20T10:50:43.155Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Charger",
+          "size": "251/57R20",
+          "installDate": "2024-07-03T00:19:26.277Z",
+          "mileage": 71109,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Wrangler",
+          "size": "243/80R16",
+          "installDate": "2024-08-03T13:36:50.116Z",
+          "mileage": 41063,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Corvette",
+          "size": "214/71R22",
+          "installDate": "2025-07-13T22:59:59.389Z",
+          "mileage": 30892,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "Mercielago",
+          "size": "223/55R15",
+          "installDate": "2024-09-16T10:13:43.442Z",
+          "mileage": 67405,
+          "condition": "poor"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Dr. Seth Kuhn",
+      "createdAt": "2025-08-09T01:31:18.442Z"
+    },
+    {
+      "id": "3bd00a15-b550-4d38-85ec-abb8a2ab0c8f",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "XLU0FUR49MT885799",
+      "make": "Hyundai",
+      "model": "Beetle",
+      "year": 2023,
+      "licensePlate": "ZL56HAL",
+      "currentLocation": {
+        "latitude": 45.1437,
+        "longitude": -81.8699,
+        "address": "58445 Jannie Stream"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-04-07T15:45:24.839Z",
+      "nextServiceDue": "2026-06-09T09:40:49.837Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Model X",
+          "size": "279/60R18",
+          "installDate": "2024-11-30T11:53:55.002Z",
+          "mileage": 40229,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "PT Cruiser",
+          "size": "275/69R19",
+          "installDate": "2025-02-28T15:56:08.958Z",
+          "mileage": 54415,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Model T",
+          "size": "281/58R15",
+          "installDate": "2024-08-29T21:25:23.660Z",
+          "mileage": 22508,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Roadster",
+          "size": "207/52R20",
+          "installDate": "2025-02-02T10:28:52.195Z",
+          "mileage": 38186,
+          "condition": "good"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Rachael Homenick Jr.",
+      "createdAt": "2025-03-29T23:24:38.521Z"
+    },
+    {
+      "id": "a15e10e2-28b2-4a96-8a77-d233ed0ebc57",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "43UWAZBH5BP527655",
+      "make": "Toyota",
+      "model": "V90",
+      "year": 2015,
+      "licensePlate": "WD66VUP",
+      "currentLocation": {
+        "latitude": 40.7598,
+        "longitude": -83.6269,
+        "address": "377 Mack Underpass"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-03-26T19:29:04.279Z",
+      "nextServiceDue": "2026-07-15T11:33:43.949Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "F-150",
+          "size": "222/55R17",
+          "installDate": "2025-05-12T10:35:39.531Z",
+          "mileage": 52919,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "ATS",
+          "size": "279/75R20",
+          "installDate": "2024-07-26T05:33:30.795Z",
+          "mileage": 56194,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Countach",
+          "size": "212/74R20",
+          "installDate": "2025-07-22T23:53:06.109Z",
+          "mileage": 61383,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "Cruze",
+          "size": "242/80R18",
+          "installDate": "2024-03-31T19:31:59.775Z",
+          "mileage": 69101,
+          "condition": "excellent"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Domingo Larson",
+      "createdAt": "2024-06-03T12:26:11.980Z"
+    },
+    {
+      "id": "1dc7b134-1bb9-4b5e-bd5b-2bb1492f01a7",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "J7BLALGWKNDA24734",
+      "make": "Renault",
+      "model": "Escalade",
+      "year": 2019,
+      "licensePlate": "RZ22QGE",
+      "currentLocation": {
+        "latitude": 28.2883,
+        "longitude": -114.1299,
+        "address": "91627 Hadley Station"
+      },
+      "status": "active",
+      "lastServiceDate": "2025-09-26T01:55:42.671Z",
+      "nextServiceDue": "2026-09-24T16:22:46.768Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Ranchero",
+          "size": "226/61R19",
+          "installDate": "2024-02-21T07:05:56.469Z",
+          "mileage": 57644,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "911",
+          "size": "203/50R17",
+          "installDate": "2024-03-14T23:11:42.695Z",
+          "mileage": 77211,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "F-150",
+          "size": "198/65R16",
+          "installDate": "2025-07-28T08:13:49.442Z",
+          "mileage": 59772,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Corvette",
+          "size": "185/72R18",
+          "installDate": "2024-08-18T03:09:42.295Z",
+          "mileage": 1769,
+          "condition": "poor"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Harry Bosco",
+      "createdAt": "2024-05-01T12:49:45.235Z"
+    },
+    {
+      "id": "21f3f267-8e0e-46d2-8b07-86dc60a530da",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "58FUR5H0S4E553468",
+      "make": "Mahindra & Mahindra",
+      "model": "Camry",
+      "year": 2015,
+      "licensePlate": "GW17NAS",
+      "currentLocation": {
+        "latitude": 34.6217,
+        "longitude": -113.8785,
+        "address": "6481 Monty Forks"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-09-26T05:32:44.317Z",
+      "nextServiceDue": "2026-11-11T11:16:04.724Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "Volt",
+          "size": "247/54R21",
+          "installDate": "2025-02-21T06:16:54.480Z",
+          "mileage": 19157,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Escalade",
+          "size": "217/73R20",
+          "installDate": "2024-11-15T04:00:20.318Z",
+          "mileage": 69936,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "911",
+          "size": "263/52R17",
+          "installDate": "2025-08-21T04:06:57.016Z",
+          "mileage": 34773,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Mustang",
+          "size": "281/73R17",
+          "installDate": "2024-05-12T17:56:14.960Z",
+          "mileage": 28321,
+          "condition": "excellent"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Joann Ondricka",
+      "createdAt": "2024-05-31T13:12:57.952Z"
+    },
+    {
+      "id": "04bd3991-a65e-45d2-bf1f-7113164cca31",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "B8FRH6URGYN341676",
+      "make": "Ford",
+      "model": "Camry",
+      "year": 2019,
+      "licensePlate": "JT56YSD",
+      "currentLocation": {
+        "latitude": 37.9168,
+        "longitude": -97.3519,
+        "address": "1556 Doyle Villages"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-01-05T10:36:34.570Z",
+      "nextServiceDue": "2026-07-24T08:54:39.014Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Malibu",
+          "size": "188/55R18",
+          "installDate": "2024-12-09T10:40:06.848Z",
+          "mileage": 2791,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "LeBaron",
+          "size": "231/79R22",
+          "installDate": "2024-12-09T18:08:13.285Z",
+          "mileage": 66806,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "1",
+          "size": "216/70R18",
+          "installDate": "2025-09-18T10:07:24.743Z",
+          "mileage": 37115,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Element",
+          "size": "221/77R18",
+          "installDate": "2025-09-02T02:22:57.892Z",
+          "mileage": 15020,
+          "condition": "poor"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Gustavo Price",
+      "createdAt": "2024-06-14T08:47:55.036Z"
+    },
+    {
+      "id": "66cc25a5-f55c-4310-8ed4-f023c59db825",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "E8D3R7U8USSE32802",
+      "make": "Maruti",
+      "model": "Colorado",
+      "year": 2021,
+      "licensePlate": "TM86ANM",
+      "currentLocation": {
+        "latitude": 30.2285,
+        "longitude": -88.7756,
+        "address": "2852 Jones Club"
+      },
+      "status": "active",
+      "lastServiceDate": "2025-03-23T13:42:23.956Z",
+      "nextServiceDue": "2026-09-09T08:41:15.037Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "XC90",
+          "size": "193/50R18",
+          "installDate": "2025-08-06T01:57:20.981Z",
+          "mileage": 14530,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Jetta",
+          "size": "263/56R15",
+          "installDate": "2025-01-10T21:28:10.774Z",
+          "mileage": 28942,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Prius",
+          "size": "274/62R16",
+          "installDate": "2025-08-22T05:06:21.770Z",
+          "mileage": 65338,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Element",
+          "size": "249/67R22",
+          "installDate": "2025-07-08T00:22:10.552Z",
+          "mileage": 57956,
+          "condition": "fair"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Bobbie Brakus",
+      "createdAt": "2025-08-19T04:10:42.033Z"
+    },
+    {
+      "id": "e91a6e66-f470-4257-aa59-f5ab8722fc7b",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "M1PH9UWG2BAL94592",
+      "make": "Kia",
+      "model": "Sentra",
+      "year": 2020,
+      "licensePlate": "QM26OQC",
+      "currentLocation": {
+        "latitude": 40.7216,
+        "longitude": -99.7554,
+        "address": "7222 Conroy Pine"
+      },
+      "status": "active",
+      "lastServiceDate": "2024-12-13T17:23:53.148Z",
+      "nextServiceDue": "2026-09-07T00:47:42.687Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Alpine",
+          "size": "267/54R19",
+          "installDate": "2025-03-02T07:53:01.658Z",
+          "mileage": 70478,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Beetle",
+          "size": "234/75R20",
+          "installDate": "2025-01-21T10:31:12.196Z",
+          "mileage": 19807,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Taurus",
+          "size": "194/73R18",
+          "installDate": "2024-12-09T09:37:59.696Z",
+          "mileage": 24227,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "911",
+          "size": "185/61R16",
+          "installDate": "2025-06-12T04:54:19.397Z",
+          "mileage": 75764,
+          "condition": "fair"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Gretchen Stokes",
+      "createdAt": "2025-09-26T04:06:37.567Z"
+    },
+    {
+      "id": "4064cffd-b79d-4fbb-a611-b1cd4309e424",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "HHZW7DME86UU83856",
+      "make": "Volkswagen",
+      "model": "Ranchero",
+      "year": 2016,
+      "licensePlate": "ZJ97CEM",
+      "currentLocation": {
+        "latitude": 26.5305,
+        "longitude": -112.2887,
+        "address": "4937 Assunta Port"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-06-21T08:34:57.661Z",
+      "nextServiceDue": "2026-09-04T01:44:55.086Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "Durango",
+          "size": "276/72R17",
+          "installDate": "2024-11-23T18:42:37.848Z",
+          "mileage": 56506,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Model X",
+          "size": "216/57R19",
+          "installDate": "2024-04-28T12:03:50.941Z",
+          "mileage": 45981,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Civic",
+          "size": "193/77R20",
+          "installDate": "2024-02-05T00:14:26.074Z",
+          "mileage": 38585,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "Spyder",
+          "size": "214/64R17",
+          "installDate": "2024-03-09T15:23:17.058Z",
+          "mileage": 33679,
+          "condition": "good"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Merle Corwin",
+      "createdAt": "2025-09-30T21:31:21.180Z"
+    },
+    {
+      "id": "e66d58c2-e2b2-4036-a388-94eb334db522",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "PSKUTY3Y4LLS22451",
+      "make": "Citroën",
+      "model": "1",
+      "year": 2016,
+      "licensePlate": "BZ35SHY",
+      "currentLocation": {
+        "latitude": 46.1224,
+        "longitude": -94.6759,
+        "address": "3519 Back Lane"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-09-06T15:58:42.932Z",
+      "nextServiceDue": "2025-12-08T19:44:47.422Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Jetta",
+          "size": "259/60R22",
+          "installDate": "2024-12-12T09:00:09.431Z",
+          "mileage": 40040,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "Sentra",
+          "size": "276/78R17",
+          "installDate": "2024-11-23T10:21:43.716Z",
+          "mileage": 4553,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Golf",
+          "size": "282/58R17",
+          "installDate": "2025-01-15T22:01:52.548Z",
+          "mileage": 67758,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "CTS",
+          "size": "248/75R16",
+          "installDate": "2024-06-14T11:29:19.566Z",
+          "mileage": 74268,
+          "condition": "good"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Lance Renner",
+      "createdAt": "2024-10-18T15:01:31.395Z"
+    },
+    {
+      "id": "0bddd0b2-9961-4017-b0d3-788e9498e323",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vin": "DW05R1MX12YA82802",
+      "make": "Bentley",
+      "model": "Model T",
+      "year": 2015,
+      "licensePlate": "WP48IJG",
+      "currentLocation": {
+        "latitude": 45.6711,
+        "longitude": -82.3102,
+        "address": "609 S Front Street"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-05-24T13:29:22.789Z",
+      "nextServiceDue": "2026-09-16T13:48:46.162Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Jetta",
+          "size": "223/75R15",
+          "installDate": "2025-02-25T20:24:56.628Z",
+          "mileage": 10203,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "Charger",
+          "size": "267/57R15",
+          "installDate": "2025-09-21T19:19:26.376Z",
+          "mileage": 60800,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "Colorado",
+          "size": "283/59R18",
+          "installDate": "2023-12-19T02:10:35.718Z",
+          "mileage": 13841,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Land Cruiser",
+          "size": "262/80R21",
+          "installDate": "2025-12-01T19:54:54.789Z",
+          "mileage": 15055,
+          "condition": "excellent"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Esther Bechtelar-Marks",
+      "createdAt": "2025-08-29T10:41:42.687Z"
+    },
+    {
+      "id": "4be15d76-c78e-4b43-a490-93b4801481c4",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vin": "85WH81SX3YDF79674",
+      "make": "Bentley",
+      "model": "Altima",
+      "year": 2021,
+      "licensePlate": "NF00MFJ",
+      "currentLocation": {
+        "latitude": 46.8152,
+        "longitude": -106.9769,
+        "address": "12468 Reinhold Street"
+      },
+      "status": "active",
+      "lastServiceDate": "2025-09-19T11:44:22.153Z",
+      "nextServiceDue": "2026-08-30T05:38:49.614Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Beetle",
+          "size": "271/60R21",
+          "installDate": "2023-12-19T11:26:14.845Z",
+          "mileage": 44578,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Roadster",
+          "size": "245/77R22",
+          "installDate": "2024-03-28T09:18:05.666Z",
+          "mileage": 51890,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Roadster",
+          "size": "199/76R16",
+          "installDate": "2024-03-07T01:10:32.864Z",
+          "mileage": 23242,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Sentra",
+          "size": "246/64R18",
+          "installDate": "2025-07-01T06:29:49.368Z",
+          "mileage": 27089,
+          "condition": "good"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Dr. Matt Prosacco",
+      "createdAt": "2024-09-17T23:50:32.583Z"
+    },
+    {
+      "id": "1465f8a3-fde4-400e-8fc2-38e8e806a16a",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "LTXM3MHSNBTN21388",
+      "make": "Volvo",
+      "model": "Challenger",
+      "year": 2024,
+      "licensePlate": "DT99NZC",
+      "currentLocation": {
+        "latitude": 26.4254,
+        "longitude": -93.597,
+        "address": "6843 Lake Drive"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-05-05T09:37:05.699Z",
+      "nextServiceDue": "2026-04-10T09:45:12.111Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Jetta",
+          "size": "271/75R15",
+          "installDate": "2024-07-07T15:01:41.986Z",
+          "mileage": 10214,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "PT Cruiser",
+          "size": "218/78R17",
+          "installDate": "2025-07-19T05:49:56.305Z",
+          "mileage": 7936,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "Impala",
+          "size": "260/51R22",
+          "installDate": "2024-12-26T10:40:10.477Z",
+          "mileage": 18035,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Cruze",
+          "size": "208/74R17",
+          "installDate": "2025-08-31T08:06:50.834Z",
+          "mileage": 35428,
+          "condition": "fair"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Lillie Kub",
+      "createdAt": "2025-09-21T06:49:39.014Z"
+    },
+    {
+      "id": "37c3ef1e-c080-49cb-bf51-4398dc6874c1",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "Y1KAM94XSMTT19842",
+      "make": "Tata",
+      "model": "Golf",
+      "year": 2024,
+      "licensePlate": "RC14UEX",
+      "currentLocation": {
+        "latitude": 34.3765,
+        "longitude": -101.899,
+        "address": "2672 Laurence Vista"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-06-17T17:52:12.714Z",
+      "nextServiceDue": "2026-06-14T07:34:54.823Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "XC90",
+          "size": "198/56R20",
+          "installDate": "2025-08-08T21:05:32.985Z",
+          "mileage": 59546,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Model 3",
+          "size": "254/56R20",
+          "installDate": "2024-10-05T13:43:42.664Z",
+          "mileage": 61693,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Cruze",
+          "size": "196/58R16",
+          "installDate": "2025-07-22T16:00:17.420Z",
+          "mileage": 61164,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Accord",
+          "size": "237/80R15",
+          "installDate": "2024-10-14T07:05:47.705Z",
+          "mileage": 8444,
+          "condition": "good"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Johnnie Sauer",
+      "createdAt": "2025-03-14T08:30:52.726Z"
+    },
+    {
+      "id": "2ba90e8f-9678-4679-82cc-327cbb9dc839",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "RKXZEGD9VEEB12029",
+      "make": "MG",
+      "model": "Charger",
+      "year": 2016,
+      "licensePlate": "AP52EQR",
+      "currentLocation": {
+        "latitude": 30.9149,
+        "longitude": -121.2082,
+        "address": "287 Grange Road"
+      },
+      "status": "maintenance",
+      "lastServiceDate": "2025-12-03T12:31:02.303Z",
+      "nextServiceDue": "2026-08-06T01:37:47.352Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Alpine",
+          "size": "246/69R20",
+          "installDate": "2025-07-17T02:30:15.684Z",
+          "mileage": 67572,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Alpine",
+          "size": "284/60R18",
+          "installDate": "2024-03-30T10:32:48.399Z",
+          "mileage": 40667,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "Colorado",
+          "size": "215/79R18",
+          "installDate": "2024-09-21T01:56:16.908Z",
+          "mileage": 7651,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "XC90",
+          "size": "284/54R17",
+          "installDate": "2025-03-17T23:10:51.812Z",
+          "mileage": 39200,
+          "condition": "poor"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Debbie King III",
+      "createdAt": "2025-10-16T12:17:47.594Z"
+    },
+    {
+      "id": "bc27403d-94a3-420c-9c52-afd0dd89976e",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vin": "UFHGDM2KAWJ835878",
+      "make": "Volvo",
+      "model": "Volt",
+      "year": 2019,
+      "licensePlate": "AI64THU",
+      "currentLocation": {
+        "latitude": 47.6301,
+        "longitude": -97.426,
+        "address": "974 N Cedar Street"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-01-24T22:56:50.370Z",
+      "nextServiceDue": "2026-11-08T19:34:44.305Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Model T",
+          "size": "198/58R16",
+          "installDate": "2025-06-22T03:30:24.092Z",
+          "mileage": 8186,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Taurus",
+          "size": "203/70R21",
+          "installDate": "2024-08-27T07:49:41.143Z",
+          "mileage": 33009,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "1",
+          "size": "222/52R18",
+          "installDate": "2024-12-04T18:58:24.978Z",
+          "mileage": 14833,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Golf",
+          "size": "280/69R16",
+          "installDate": "2025-09-25T17:22:47.426Z",
+          "mileage": 46564,
+          "condition": "good"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Janie Gutkowski DVM",
+      "createdAt": "2025-09-20T10:19:22.489Z"
+    },
+    {
+      "id": "0571f137-765e-4074-b78c-76434ab1fb20",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "SE6X4GCZ8FG141948",
+      "make": "Honda",
+      "model": "Aventador",
+      "year": 2024,
+      "licensePlate": "MU49CME",
+      "currentLocation": {
+        "latitude": 37.3247,
+        "longitude": -105.2212,
+        "address": "700 Jordyn Walks"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-05-23T18:48:47.146Z",
+      "nextServiceDue": "2026-05-04T10:46:20.432Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Corvette",
+          "size": "285/78R21",
+          "installDate": "2025-01-07T21:59:01.801Z",
+          "mileage": 32663,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "911",
+          "size": "223/67R20",
+          "installDate": "2024-03-31T13:53:11.745Z",
+          "mileage": 68658,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Michelin",
+          "model": "LeBaron",
+          "size": "201/74R22",
+          "installDate": "2024-05-17T08:26:00.595Z",
+          "mileage": 24899,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "Malibu",
+          "size": "241/55R18",
+          "installDate": "2025-09-20T13:29:36.749Z",
+          "mileage": 44768,
+          "condition": "good"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Priscilla Deckow",
+      "createdAt": "2024-02-21T10:54:22.032Z"
+    },
+    {
+      "id": "8af8dc0a-4a7c-481e-b20b-0f11e4823646",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "UGHXFRRPKFWW54767",
+      "make": "Honda",
+      "model": "XC90",
+      "year": 2016,
+      "licensePlate": "WU81PFV",
+      "currentLocation": {
+        "latitude": 33.3761,
+        "longitude": -81.6282,
+        "address": "41548 Miller Brook"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-11-18T11:28:53.494Z",
+      "nextServiceDue": "2026-11-22T06:51:12.846Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "Roadster",
+          "size": "207/63R16",
+          "installDate": "2024-12-29T05:00:36.340Z",
+          "mileage": 12232,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "Grand Caravan",
+          "size": "266/67R21",
+          "installDate": "2024-06-16T05:51:38.989Z",
+          "mileage": 69294,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "F-150",
+          "size": "213/76R22",
+          "installDate": "2024-02-10T13:13:33.674Z",
+          "mileage": 63183,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Expedition",
+          "size": "194/73R20",
+          "installDate": "2024-04-09T18:18:56.719Z",
+          "mileage": 35159,
+          "condition": "good"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Ed Hirthe",
+      "createdAt": "2025-10-28T00:19:37.274Z"
+    },
+    {
+      "id": "b1a301d4-1813-4dc8-a43b-07ab9133561c",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "PWN1UVTGJGXT23797",
+      "make": "Aston Martin",
+      "model": "Element",
+      "year": 2017,
+      "licensePlate": "RW51EWX",
+      "currentLocation": {
+        "latitude": 26.3939,
+        "longitude": -121.4856,
+        "address": "334 Terrell Springs"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-03-17T05:58:41.724Z",
+      "nextServiceDue": "2026-07-05T19:13:31.451Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "XTS",
+          "size": "235/67R17",
+          "installDate": "2024-12-29T06:31:41.880Z",
+          "mileage": 63376,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Camry",
+          "size": "191/67R19",
+          "installDate": "2024-05-04T19:09:28.725Z",
+          "mileage": 48579,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "Fiesta",
+          "size": "255/61R22",
+          "installDate": "2025-01-25T08:33:36.730Z",
+          "mileage": 1107,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Corvette",
+          "size": "243/55R17",
+          "installDate": "2024-02-08T23:43:43.677Z",
+          "mileage": 63155,
+          "condition": "fair"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Shelley King DVM",
+      "createdAt": "2025-07-25T06:47:48.210Z"
+    },
+    {
+      "id": "7ea2e08a-500d-411e-9d4a-3051e44915bc",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vin": "Y5P236X6PEC695549",
+      "make": "Subaru",
+      "model": "El Camino",
+      "year": 2017,
+      "licensePlate": "TT82HNG",
+      "currentLocation": {
+        "latitude": 34.9395,
+        "longitude": -83.483,
+        "address": "330 Karine Row"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-07-08T21:43:50.825Z",
+      "nextServiceDue": "2026-07-03T17:14:36.839Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "1",
+          "size": "278/50R20",
+          "installDate": "2025-09-12T01:49:08.444Z",
+          "mileage": 32016,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Wrangler",
+          "size": "281/50R16",
+          "installDate": "2024-02-10T12:51:12.701Z",
+          "mileage": 17896,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "V90",
+          "size": "263/51R21",
+          "installDate": "2025-09-08T10:51:13.463Z",
+          "mileage": 12975,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Roadster",
+          "size": "207/50R18",
+          "installDate": "2025-06-29T14:28:30.850Z",
+          "mileage": 49627,
+          "condition": "good"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Joan Kshlerin",
+      "createdAt": "2025-08-07T06:08:40.958Z"
+    },
+    {
+      "id": "2608177c-150c-4058-b372-e749684ca114",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "F3Z2BZ4R8TAF07234",
+      "make": "Ferrari",
+      "model": "Impala",
+      "year": 2017,
+      "licensePlate": "AY66JYE",
+      "currentLocation": {
+        "latitude": 36.6773,
+        "longitude": -87.7511,
+        "address": "2046 Maria Brooks"
+      },
+      "status": "maintenance",
+      "lastServiceDate": "2025-09-03T01:46:06.540Z",
+      "nextServiceDue": "2026-04-06T21:22:35.356Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "Fiesta",
+          "size": "281/72R15",
+          "installDate": "2024-03-18T08:07:59.981Z",
+          "mileage": 45808,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Ranchero",
+          "size": "251/63R18",
+          "installDate": "2024-03-18T09:41:24.755Z",
+          "mileage": 37640,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Ranchero",
+          "size": "226/70R18",
+          "installDate": "2025-06-04T13:19:06.838Z",
+          "mileage": 76665,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Jetta",
+          "size": "234/59R15",
+          "installDate": "2024-01-24T05:32:55.779Z",
+          "mileage": 31905,
+          "condition": "poor"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Lee Stanton",
+      "createdAt": "2024-03-15T18:59:23.386Z"
+    },
+    {
+      "id": "17c1e480-d330-46be-a413-86146a053a64",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vin": "7CNDEL7ZJXC997704",
+      "make": "Hyundai",
+      "model": "Beetle",
+      "year": 2018,
+      "licensePlate": "SP54EFI",
+      "currentLocation": {
+        "latitude": 32.8491,
+        "longitude": -80.778,
+        "address": "31027 S 7th Street"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-02-03T06:49:53.300Z",
+      "nextServiceDue": "2026-02-04T05:46:03.608Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "Model X",
+          "size": "283/52R21",
+          "installDate": "2024-03-14T09:03:28.601Z",
+          "mileage": 77034,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Fortwo",
+          "size": "234/79R21",
+          "installDate": "2024-03-05T02:44:07.856Z",
+          "mileage": 56700,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "1",
+          "size": "199/67R21",
+          "installDate": "2024-02-06T08:10:23.275Z",
+          "mileage": 78530,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Land Cruiser",
+          "size": "241/64R18",
+          "installDate": "2024-06-18T23:12:23.423Z",
+          "mileage": 5515,
+          "condition": "good"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Pat Pollich",
+      "createdAt": "2025-01-30T12:26:26.070Z"
+    },
+    {
+      "id": "370747e6-e323-471a-84a2-306c61d16fc9",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "4GVC6JU1DTPF07295",
+      "make": "Ford",
+      "model": "V90",
+      "year": 2020,
+      "licensePlate": "XH24IAQ",
+      "currentLocation": {
+        "latitude": 45.236,
+        "longitude": -90.4219,
+        "address": "37493 Felicia Circles"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-08-22T20:48:03.374Z",
+      "nextServiceDue": "2026-03-22T17:37:18.571Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "El Camino",
+          "size": "255/55R22",
+          "installDate": "2024-08-27T21:39:00.053Z",
+          "mileage": 40545,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Roadster",
+          "size": "204/59R22",
+          "installDate": "2024-06-20T16:00:37.010Z",
+          "mileage": 19270,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Grand Cherokee",
+          "size": "201/54R15",
+          "installDate": "2025-07-27T04:34:33.673Z",
+          "mileage": 79800,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Silverado",
+          "size": "248/73R22",
+          "installDate": "2024-08-01T23:06:32.307Z",
+          "mileage": 72407,
+          "condition": "fair"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Audrey Christiansen DVM",
+      "createdAt": "2024-01-26T14:38:33.769Z"
+    },
+    {
+      "id": "8e1c0e67-49f7-4027-bd0e-bc91f2ee8cd5",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "Z4L5369X1KWD86644",
+      "make": "Toyota",
+      "model": "Mustang",
+      "year": 2023,
+      "licensePlate": "DV68QVN",
+      "currentLocation": {
+        "latitude": 29.087,
+        "longitude": -104.5198,
+        "address": "60165 4th Street"
+      },
+      "status": "active",
+      "lastServiceDate": "2025-10-28T06:03:38.733Z",
+      "nextServiceDue": "2026-01-22T17:09:54.718Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Silverado",
+          "size": "248/52R17",
+          "installDate": "2025-11-19T21:51:34.773Z",
+          "mileage": 59102,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Bridgestone",
+          "model": "Escalade",
+          "size": "193/61R18",
+          "installDate": "2024-06-16T12:02:43.564Z",
+          "mileage": 21195,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "PT Cruiser",
+          "size": "245/51R20",
+          "installDate": "2025-02-27T11:05:10.875Z",
+          "mileage": 47703,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Camaro",
+          "size": "218/59R20",
+          "installDate": "2025-04-13T09:07:59.771Z",
+          "mileage": 17864,
+          "condition": "fair"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Jackie Skiles",
+      "createdAt": "2025-04-08T10:24:38.520Z"
+    },
+    {
+      "id": "69cd568a-8ba0-4e94-862b-4eaafe120719",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vin": "0M6A3T61SPX341540",
+      "make": "Vauxhall",
+      "model": "911",
+      "year": 2021,
+      "licensePlate": "CG70KTZ",
+      "currentLocation": {
+        "latitude": 29.2771,
+        "longitude": -122.2046,
+        "address": "488 Stephania Court"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-07-05T16:40:52.875Z",
+      "nextServiceDue": "2026-07-20T22:23:35.607Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Camaro",
+          "size": "228/76R18",
+          "installDate": "2024-08-14T03:01:01.482Z",
+          "mileage": 14281,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "Colorado",
+          "size": "247/78R17",
+          "installDate": "2025-01-01T07:31:53.930Z",
+          "mileage": 64356,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Model 3",
+          "size": "230/80R21",
+          "installDate": "2024-12-17T23:17:17.745Z",
+          "mileage": 35616,
+          "condition": "poor"
+        },
+        "rearRight": {
+          "brand": "Michelin",
+          "model": "XC90",
+          "size": "258/65R21",
+          "installDate": "2024-04-02T02:17:07.275Z",
+          "mileage": 38635,
+          "condition": "excellent"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Miss Anne Breitenberg",
+      "createdAt": "2024-11-29T08:04:31.617Z"
+    },
+    {
+      "id": "4c890532-127e-4e9c-a833-dd6d6c70732f",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "NZSGL7MSDZDK07713",
+      "make": "Chevrolet",
+      "model": "Beetle",
+      "year": 2023,
+      "licensePlate": "WJ89ZRY",
+      "currentLocation": {
+        "latitude": 34.7607,
+        "longitude": -105.7651,
+        "address": "14117 Stoltenberg Overpass"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-09-10T05:05:12.223Z",
+      "nextServiceDue": "2026-10-26T06:44:41.182Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "XTS",
+          "size": "197/50R19",
+          "installDate": "2024-08-08T20:13:09.295Z",
+          "mileage": 74259,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Explorer",
+          "size": "273/61R17",
+          "installDate": "2025-11-12T19:59:54.987Z",
+          "mileage": 37454,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Roadster",
+          "size": "253/76R19",
+          "installDate": "2025-03-19T02:54:18.166Z",
+          "mileage": 72704,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Ranchero",
+          "size": "195/72R15",
+          "installDate": "2025-06-21T01:30:14.218Z",
+          "mileage": 57948,
+          "condition": "fair"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Miguel Rice IV",
+      "createdAt": "2024-06-14T15:53:09.689Z"
+    },
+    {
+      "id": "98779c55-aada-4dda-b5a3-205d89a7f97f",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "EFGF9XRSZVN743028",
+      "make": "Vauxhall",
+      "model": "Golf",
+      "year": 2019,
+      "licensePlate": "MD69GOS",
+      "currentLocation": {
+        "latitude": 45.2855,
+        "longitude": -119.3209,
+        "address": "6305 Low Road"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-10-11T18:13:23.285Z",
+      "nextServiceDue": "2026-04-16T16:43:12.342Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Alpine",
+          "size": "221/70R16",
+          "installDate": "2024-10-03T00:45:23.156Z",
+          "mileage": 23570,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Taurus",
+          "size": "191/68R19",
+          "installDate": "2025-02-01T18:57:32.333Z",
+          "mileage": 68663,
+          "condition": "fair"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Aventador",
+          "size": "201/74R21",
+          "installDate": "2024-08-20T03:36:25.764Z",
+          "mileage": 68775,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Camry",
+          "size": "249/60R18",
+          "installDate": "2025-06-07T00:54:47.751Z",
+          "mileage": 50596,
+          "condition": "fair"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Emmett Jacobson IV",
+      "createdAt": "2025-11-27T10:34:39.531Z"
+    },
+    {
+      "id": "998a5b16-e254-4138-963d-ef96ba352838",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "URLATZZKRVPJ12962",
+      "make": "Subaru",
+      "model": "Corvette",
+      "year": 2024,
+      "licensePlate": "GP36AIO",
+      "currentLocation": {
+        "latitude": 43.9609,
+        "longitude": -124.9306,
+        "address": "8828 Keeling Causeway"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-01-07T04:23:25.738Z",
+      "nextServiceDue": "2025-12-26T20:47:32.264Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Model X",
+          "size": "278/70R17",
+          "installDate": "2024-02-02T18:21:37.588Z",
+          "mileage": 16418,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Malibu",
+          "size": "230/64R17",
+          "installDate": "2024-11-24T21:51:33.996Z",
+          "mileage": 9290,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Corvette",
+          "size": "248/77R16",
+          "installDate": "2024-06-17T06:10:23.301Z",
+          "mileage": 40915,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Golf",
+          "size": "207/55R19",
+          "installDate": "2025-08-22T17:45:08.249Z",
+          "mileage": 40692,
+          "condition": "excellent"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Mr. Randy Lindgren",
+      "createdAt": "2025-04-23T23:26:15.813Z"
+    },
+    {
+      "id": "a96f1b79-553a-407c-85ac-95509fc80b5e",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "RJH53SL8N7FE44271",
+      "make": "Bentley",
+      "model": "Corvette",
+      "year": 2017,
+      "licensePlate": "WS09LHA",
+      "currentLocation": {
+        "latitude": 43.3877,
+        "longitude": -77.4833,
+        "address": "31449 Benedict Harbors"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-03-23T09:08:28.969Z",
+      "nextServiceDue": "2026-12-01T16:33:32.854Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "Jetta",
+          "size": "202/68R21",
+          "installDate": "2024-03-13T11:16:57.526Z",
+          "mileage": 17183,
+          "condition": "excellent"
+        },
+        "frontRight": {
+          "brand": "Firestone",
+          "model": "Civic",
+          "size": "281/62R16",
+          "installDate": "2025-04-07T01:11:35.044Z",
+          "mileage": 9143,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Goodyear",
+          "model": "Prius",
+          "size": "273/64R22",
+          "installDate": "2025-10-26T18:11:48.259Z",
+          "mileage": 53519,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "A4",
+          "size": "222/65R15",
+          "installDate": "2025-10-27T10:36:31.679Z",
+          "mileage": 24437,
+          "condition": "good"
+        },
+        "spareCount": 1
+      },
+      "driverAssigned": "Amy Armstrong",
+      "createdAt": "2024-05-11T10:38:45.292Z"
+    },
+    {
+      "id": "a065af9b-6e0a-43fa-a3b6-95c5a533bcf7",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "5K430RXUMBB057338",
+      "make": "Tata",
+      "model": "Camry",
+      "year": 2020,
+      "licensePlate": "BU26JGZ",
+      "currentLocation": {
+        "latitude": 32.0735,
+        "longitude": -95.2393,
+        "address": "1797 Sonia Meadow"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-10-27T17:13:57.009Z",
+      "nextServiceDue": "2026-10-06T02:14:00.334Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "Civic",
+          "size": "244/52R19",
+          "installDate": "2024-05-10T01:23:03.424Z",
+          "mileage": 61027,
+          "condition": "poor"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Roadster",
+          "size": "251/50R18",
+          "installDate": "2024-08-26T02:52:26.412Z",
+          "mileage": 28806,
+          "condition": "good"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "Escalade",
+          "size": "277/58R15",
+          "installDate": "2023-12-11T14:59:23.203Z",
+          "mileage": 23410,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "LeBaron",
+          "size": "242/79R18",
+          "installDate": "2024-12-28T15:39:50.544Z",
+          "mileage": 78522,
+          "condition": "excellent"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Ollie Schamberger",
+      "createdAt": "2024-10-06T16:19:08.512Z"
+    },
+    {
+      "id": "b8d52f5c-199a-419e-b00b-cd70bc189262",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "2SRRPA8J2RYN66781",
+      "make": "Land Rover",
+      "model": "Durango",
+      "year": 2019,
+      "licensePlate": "EW88IUH",
+      "currentLocation": {
+        "latitude": 40.794,
+        "longitude": -110.0663,
+        "address": "82224 Liberty Street"
+      },
+      "status": "maintenance",
+      "lastServiceDate": "2024-12-30T17:38:17.911Z",
+      "nextServiceDue": "2026-07-20T16:28:58.709Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Michelin",
+          "model": "Model S",
+          "size": "243/52R17",
+          "installDate": "2024-10-10T15:14:24.833Z",
+          "mileage": 59099,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "V90",
+          "size": "223/73R15",
+          "installDate": "2024-05-19T21:18:18.500Z",
+          "mileage": 50004,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "XC90",
+          "size": "257/50R17",
+          "installDate": "2024-07-20T00:02:06.108Z",
+          "mileage": 2299,
+          "condition": "good"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Model T",
+          "size": "261/56R17",
+          "installDate": "2025-03-07T07:49:49.833Z",
+          "mileage": 9458,
+          "condition": "good"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Sammy Dibbert",
+      "createdAt": "2025-04-30T12:11:53.141Z"
+    },
+    {
+      "id": "20da0374-c899-4b5a-9fc6-75c68d24fe14",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vin": "2ZDT61ARGSSK64085",
+      "make": "Audi",
+      "model": "Model T",
+      "year": 2019,
+      "licensePlate": "XU88MVW",
+      "currentLocation": {
+        "latitude": 45.4899,
+        "longitude": -84.1333,
+        "address": "71256 Vine Street"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-03-26T22:19:54.910Z",
+      "nextServiceDue": "2026-10-26T05:34:31.110Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Bridgestone",
+          "model": "2",
+          "size": "199/69R20",
+          "installDate": "2024-05-08T10:34:00.046Z",
+          "mileage": 45877,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Michelin",
+          "model": "Model T",
+          "size": "240/56R17",
+          "installDate": "2025-11-10T07:34:56.926Z",
+          "mileage": 61773,
+          "condition": "poor"
+        },
+        "rearLeft": {
+          "brand": "Firestone",
+          "model": "Jetta",
+          "size": "192/76R18",
+          "installDate": "2025-10-29T00:48:38.449Z",
+          "mileage": 49600,
+          "condition": "fair"
+        },
+        "rearRight": {
+          "brand": "Goodyear",
+          "model": "Fortwo",
+          "size": "281/59R18",
+          "installDate": "2025-05-15T16:47:19.630Z",
+          "mileage": 34707,
+          "condition": "poor"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Estelle Dicki",
+      "createdAt": "2024-08-03T10:46:45.774Z"
+    },
+    {
+      "id": "f8def648-b33c-491e-ab76-ebb16cbb9201",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vin": "1RMT6E8359XR95173",
+      "make": "Vauxhall",
+      "model": "Impala",
+      "year": 2015,
+      "licensePlate": "NB47JJX",
+      "currentLocation": {
+        "latitude": 35.9546,
+        "longitude": -109.911,
+        "address": "860 Clement Wall"
+      },
+      "status": "inactive",
+      "lastServiceDate": "2025-04-09T03:02:32.298Z",
+      "nextServiceDue": "2026-01-28T20:05:56.124Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Firestone",
+          "model": "F-150",
+          "size": "274/74R16",
+          "installDate": "2023-12-17T05:54:43.116Z",
+          "mileage": 15608,
+          "condition": "good"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "Model T",
+          "size": "191/71R21",
+          "installDate": "2024-05-24T05:59:04.951Z",
+          "mileage": 8142,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "Land Cruiser",
+          "size": "258/76R20",
+          "installDate": "2024-12-29T11:55:27.147Z",
+          "mileage": 38015,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Firestone",
+          "model": "Model 3",
+          "size": "243/62R15",
+          "installDate": "2025-01-21T08:59:04.566Z",
+          "mileage": 75589,
+          "condition": "excellent"
+        },
+        "spareCount": 0
+      },
+      "driverAssigned": "Ronald Nienow",
+      "createdAt": "2023-12-22T13:49:41.200Z"
+    },
+    {
+      "id": "e994608e-a5d3-4750-bfa5-57e7c071f1c5",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vin": "Z7CALSWJX9WT43617",
+      "make": "Jaguar",
+      "model": "Mustang",
+      "year": 2021,
+      "licensePlate": "QH22MSC",
+      "currentLocation": {
+        "latitude": 34.9648,
+        "longitude": -84.8349,
+        "address": "5705 Renner Club"
+      },
+      "status": "in-service",
+      "lastServiceDate": "2025-05-23T11:23:48.021Z",
+      "nextServiceDue": "2026-04-30T12:51:37.382Z",
+      "tireInfo": {
+        "frontLeft": {
+          "brand": "Goodyear",
+          "model": "Accord",
+          "size": "223/54R16",
+          "installDate": "2024-03-26T09:59:53.495Z",
+          "mileage": 47778,
+          "condition": "fair"
+        },
+        "frontRight": {
+          "brand": "Goodyear",
+          "model": "1",
+          "size": "186/55R22",
+          "installDate": "2025-10-11T01:59:28.540Z",
+          "mileage": 8851,
+          "condition": "excellent"
+        },
+        "rearLeft": {
+          "brand": "Bridgestone",
+          "model": "F-150",
+          "size": "270/52R18",
+          "installDate": "2025-03-21T20:38:23.452Z",
+          "mileage": 60190,
+          "condition": "excellent"
+        },
+        "rearRight": {
+          "brand": "Bridgestone",
+          "model": "Model X",
+          "size": "239/64R22",
+          "installDate": "2024-07-21T17:20:32.682Z",
+          "mileage": 15773,
+          "condition": "poor"
+        },
+        "spareCount": 2
+      },
+      "driverAssigned": "Kelli Hane",
+      "createdAt": "2024-11-30T19:23:21.700Z"
+    }
+  ],
+  "serviceRequests": [
+    {
+      "id": "2f570d30-9c84-4217-af0a-a13b3d973170",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vehicleId": "04bd3991-a65e-45d2-bf1f-7113164cca31",
+      "vehicleVIN": "B8FRH6URGYN341676",
+      "requestorId": "84587c65-3274-4f82-919f-937e9689d74a",
+      "location": {
+        "latitude": 44.1587,
+        "longitude": -69.4559,
+        "address": "990 Jacinthe Mount"
+      },
+      "issueType": "road_hazard",
+      "priority": "urgent",
+      "description": "Careo concido ventito tibi crinis. Creator censura bellum dicta denuo. Convoco utrum utrum commodo ait compono appositus adfero aetas.",
+      "photos": [
+        {
+          "id": "4c422cc9-a94c-483f-95cd-f6fef69c747f",
+          "uri": "https://loremflickr.com/463/1445?lock=3278274530975314",
+          "thumbnail": "https://loremflickr.com/1709/2004?lock=6559118069718176",
+          "description": "Conturbo vere surculus capitulus.",
+          "timestamp": "2025-11-30T15:58:58.714Z"
+        },
+        {
+          "id": "60466cba-85bd-49a9-881a-6923c13bddf4",
+          "uri": "https://picsum.photos/seed/iUsohI5/2049/3806",
+          "thumbnail": "https://picsum.photos/seed/55BXcf/756/317",
+          "description": "Vilitas totus cui corporis varietas pecus cicuta video utrum crudelis.",
+          "timestamp": "2025-10-30T22:51:39.794Z"
+        },
+        {
+          "id": "c4c5e235-c5a6-4715-a7ed-e6cd33611108",
+          "uri": "https://loremflickr.com/2722/2678?lock=2375009717524323",
+          "thumbnail": "https://loremflickr.com/396/3565?lock=6528914167885106",
+          "description": "Cura paulatim statua coniuratio utroque.",
+          "timestamp": "2025-11-04T01:03:55.498Z"
+        },
+        {
+          "id": "67f0001c-485d-4f9f-a290-df65d477e29d",
+          "uri": "https://picsum.photos/seed/GEOT90cA/2322/2707",
+          "thumbnail": "https://loremflickr.com/1637/1346?lock=4942047875902899",
+          "description": "Cilicium cupio stipes testimonium vaco bellicus cunae.",
+          "timestamp": "2025-12-04T01:17:55.133Z"
+        }
+      ],
+      "status": "invoiced",
+      "createdAt": "2025-10-28T20:11:53.188Z",
+      "updatedAt": "2025-11-26T15:56:29.741Z",
+      "estimatedServiceTime": "2026-03-01T18:23:05.321Z",
+      "actualServiceTime": "2025-12-03T18:58:15.510Z",
+      "technicianId": "918600ab-c571-4699-beec-9d3971e97b45",
+      "technicianName": "Kim Senger",
+      "technicianPhone": "265.527.9767 x3951",
+      "serviceNotes": "Pectus voluptatum vulariter adicio consectetur veritas cruentus sumo desidero comburo. Confido arcesso vito solum tametsi atrocitas caveo tero recusandae in. Eum aliqua alias absconditus stabilis absconditus.",
+      "invoiceId": "43625289-a488-4787-ad18-647298275afa"
+    },
+    {
+      "id": "7e024325-4c20-4005-99d2-2f19022d0819",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vehicleId": "4064cffd-b79d-4fbb-a611-b1cd4309e424",
+      "vehicleVIN": "HHZW7DME86UU83856",
+      "requestorId": "69af91bf-d90e-43ad-9569-21f6d2974d7a",
+      "location": {
+        "latitude": 31.3176,
+        "longitude": -102.3695,
+        "address": "7916 Schroeder Forks"
+      },
+      "issueType": "road_hazard",
+      "priority": "urgent",
+      "description": "Cupio cado conicio veritas maxime depulso debilito degusto esse. Adduco theca spectaculum validus sonitus. Solvo tenus vallum.",
+      "photos": [
+        {
+          "id": "f6085d9c-71ef-44a8-95ec-46dc222fcfca",
+          "uri": "https://loremflickr.com/3590/2796?lock=8816074574033078",
+          "thumbnail": "https://loremflickr.com/2595/2160?lock=7159238253895066",
+          "description": "Attero conatus adipisci templum centum sit defessus cauda.",
+          "timestamp": "2025-11-26T02:12:41.515Z"
+        },
+        {
+          "id": "a2fdccf7-bb38-4ce6-ae0d-54636ec32b80",
+          "uri": "https://picsum.photos/seed/8BsMf/3219/741",
+          "thumbnail": "https://loremflickr.com/3962/221?lock=2859665499829219",
+          "description": "Vorago voveo suspendo.",
+          "timestamp": "2025-05-31T01:10:32.250Z"
+        },
+        {
+          "id": "7c5f70a8-ac4b-4de0-9677-318ea194d171",
+          "uri": "https://picsum.photos/seed/pN9BQ9HniF/714/291",
+          "thumbnail": "https://picsum.photos/seed/bJEVTkE/2959/3861",
+          "description": "Cursus comis conscendo coruscus conscendo placeat.",
+          "timestamp": "2025-11-26T16:36:00.926Z"
+        }
+      ],
+      "status": "submitted",
+      "createdAt": "2025-05-13T03:30:04.629Z",
+      "updatedAt": "2025-07-10T23:11:46.860Z",
+      "estimatedServiceTime": "2026-09-30T11:31:23.012Z",
+      "actualServiceTime": "2025-12-03T10:36:47.176Z",
+      "technicianId": "901f9bf6-4b6d-4e28-b30c-bbed25049bc5",
+      "technicianName": "Corey Wyman",
+      "technicianPhone": "206.238.8000 x079",
+      "serviceNotes": "Acervus supplanto alter solus cognomen defaeco compello arcesso sapiente. Caput tergo iusto. Deficio arguo textor curto defessus subnecto veniam commodi.",
+      "invoiceId": "01b0d908-e476-45c8-b34f-4d17b74f4c5f"
+    },
+    {
+      "id": "05730c71-10f2-4725-89e9-3cd1c9766feb",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vehicleId": "04bd3991-a65e-45d2-bf1f-7113164cca31",
+      "vehicleVIN": "B8FRH6URGYN341676",
+      "requestorId": "ac5534f1-0e7f-4bf1-adae-1973e161b51c",
+      "location": {
+        "latitude": 35.8212,
+        "longitude": -94.8527,
+        "address": "66749 Martin Luther King Drive"
+      },
+      "issueType": "sidewall_damage",
+      "priority": "urgent",
+      "description": "Adnuo crastinus odit tubineus amoveo timidus quibusdam tepesco advenio. Debitis creo omnis amo vallum comburo adhaero amplitudo cognomen totam. Derideo dolorum vae.",
+      "photos": [
+        {
+          "id": "a9386483-b3f5-4d12-897c-b53ebaf8fb65",
+          "uri": "https://picsum.photos/seed/gafQ3Z/3022/1680",
+          "thumbnail": "https://picsum.photos/seed/b9uz7h1iq/817/2324",
+          "description": "Viscus titulus beatus dolores reprehenderit voveo adinventitias clamo.",
+          "timestamp": "2025-08-05T01:02:40.019Z"
+        }
+      ],
+      "status": "on_hold",
+      "createdAt": "2025-04-28T07:54:02.192Z",
+      "updatedAt": "2025-06-27T04:39:14.176Z",
+      "estimatedServiceTime": "2026-05-12T05:17:25.348Z",
+      "actualServiceTime": "2025-12-03T05:57:40.395Z",
+      "technicianId": "963c0762-1725-4114-97ab-4d50f5969706",
+      "technicianName": "Merle Wintheiser",
+      "technicianPhone": "(308) 880-7035 x9767",
+      "serviceNotes": "Vulgus venustas vigilo cubitum. Odio cerno possimus abstergo stella officia alii victoria. Minima validus decor auxilium.",
+      "invoiceId": "a8aa6193-e846-4ff5-aa5b-e2eae87fea97"
+    },
+    {
+      "id": "f5db4187-d1ea-4d2d-b6c9-5c54705f1b46",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vehicleId": "54d291bd-b11e-46e7-b9d5-f85c3bf50497",
+      "vehicleVIN": "9E8VUX7XVWGS79209",
+      "requestorId": "5c126ed9-6b93-4ff4-965c-74fa319c1013",
+      "location": {
+        "latitude": 46.1932,
+        "longitude": -116.2296,
+        "address": "91041 Rectory Close"
+      },
+      "issueType": "worn_tread",
+      "priority": "standard",
+      "description": "Volaticus advenio audio labore. Adamo umquam decor delibero venia. Cui arbustum texo carmen vilitas celebrer curso.",
+      "photos": [
+        {
+          "id": "96d723f7-836b-4eea-b4df-8cabf1db7632",
+          "uri": "https://loremflickr.com/894/3057?lock=5409445286845777",
+          "thumbnail": "https://picsum.photos/seed/sUWp1c6oE4/2789/198",
+          "description": "Reprehenderit coniuratio creptio terga tepesco laborum.",
+          "timestamp": "2025-10-20T04:05:04.224Z"
+        }
+      ],
+      "status": "cancelled",
+      "createdAt": "2025-03-21T07:48:30.459Z",
+      "updatedAt": "2025-06-18T21:28:08.765Z",
+      "estimatedServiceTime": "2026-06-24T11:14:24.845Z",
+      "actualServiceTime": "2025-12-03T15:04:15.008Z",
+      "technicianId": "4ce1cad4-561e-4b69-8989-a5f7df3ec7bc",
+      "technicianName": "Russell Wolff",
+      "technicianPhone": "(783) 687-6670",
+      "serviceNotes": "Advenio strenuus spectaculum. Anser fuga thema. Certe contabesco una agnosco cum vociferor vaco demonstro decet.",
+      "invoiceId": "03ced560-3a9d-45f1-9aef-047a4151dbbb"
+    },
+    {
+      "id": "00799102-135d-4c01-a75f-23bd7dc144db",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vehicleId": "1dc7b134-1bb9-4b5e-bd5b-2bb1492f01a7",
+      "vehicleVIN": "J7BLALGWKNDA24734",
+      "requestorId": "78b4adef-5cc1-4588-aef7-f80a6e48e3ef",
+      "location": {
+        "latitude": 35.0483,
+        "longitude": -97.2912,
+        "address": "3918 Market Place"
+      },
+      "issueType": "flat_tire",
+      "priority": "urgent",
+      "description": "Apostolus texo spiculum cunae acquiro cupiditas subnecto tepesco quas. Cilicium ater coepi trans consectetur creator. Asperiores thymbra rem vitae conor.",
+      "photos": [
+        {
+          "id": "3fc232bb-2629-4197-a76e-8f690fce0309",
+          "uri": "https://loremflickr.com/3797/357?lock=3974541839506868",
+          "thumbnail": "https://loremflickr.com/3468/2914?lock=8165360965028448",
+          "description": "Cruciamentum spectaculum denuncio desino cresco cauda inventore depopulo.",
+          "timestamp": "2025-10-16T21:22:30.913Z"
+        },
+        {
+          "id": "a86327b7-542e-4e58-94c5-58c8746205ff",
+          "uri": "https://picsum.photos/seed/OLoWPVOCI/927/3625",
+          "thumbnail": "https://picsum.photos/seed/djZPeGQP/543/3343",
+          "description": "Vulgo adipisci excepturi dolor teres.",
+          "timestamp": "2025-07-02T02:26:27.119Z"
+        },
+        {
+          "id": "80a117a0-0836-4bee-a9f8-b58e76a78ce0",
+          "uri": "https://picsum.photos/seed/DKruRkZBFG/1017/473",
+          "thumbnail": "https://picsum.photos/seed/OAIF2w/2160/2932",
+          "description": "Congregatio cupiditas antea beneficium tamquam cubo sordeo.",
+          "timestamp": "2025-07-01T12:56:27.642Z"
+        }
+      ],
+      "status": "invoiced",
+      "createdAt": "2024-12-09T02:09:16.943Z",
+      "updatedAt": "2025-03-11T19:59:48.681Z",
+      "estimatedServiceTime": "2026-09-01T17:55:37.229Z",
+      "actualServiceTime": "2025-12-03T13:42:25.215Z",
+      "technicianId": "92001258-83ce-44fc-a5df-4669c339549d",
+      "technicianName": "Bernadette Hirthe",
+      "technicianPhone": "(892) 636-6924 x96827",
+      "serviceNotes": "Theca custodia conatus admiratio charisma aspernatur pel. Arguo depono triumphus rem ancilla uxor modi terreo amoveo. Capitulus adaugeo ulciscor reprehenderit verus adflicto tripudio.",
+      "invoiceId": "871fd441-52d4-4385-b460-8b0749ed3f93"
+    },
+    {
+      "id": "990fa16f-6acb-4aa0-be04-169c290d5386",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "vehicleId": "0bddd0b2-9961-4017-b0d3-788e9498e323",
+      "vehicleVIN": "DW05R1MX12YA82802",
+      "requestorId": "3b8c6324-1cbf-4c25-bf72-ada6ee0d4bcd",
+      "location": {
+        "latitude": 31.8559,
+        "longitude": -94.3608,
+        "address": "202 Blanda Unions"
+      },
+      "issueType": "flat_tire",
+      "priority": "urgent",
+      "description": "Calculus vulgus venia approbo natus absum traho officia. Summopere utrimque debitis cresco voluptatem tondeo acceptus iure balbus. Vomito spero impedit termes color incidunt.",
+      "photos": [
+        {
+          "id": "81133b49-bef7-474e-a1ee-cf0531c3abc7",
+          "uri": "https://loremflickr.com/3890/2583?lock=16116727950640",
+          "thumbnail": "https://loremflickr.com/403/997?lock=4696155710420483",
+          "description": "Demo aggredior laboriosam argumentum solutio abscido debilito.",
+          "timestamp": "2025-03-18T17:15:04.619Z"
+        },
+        {
+          "id": "c0d3fa6a-e08b-4b92-aff6-366185a4dc6e",
+          "uri": "https://loremflickr.com/3576/2168?lock=6775720262485996",
+          "thumbnail": "https://picsum.photos/seed/99JnGMam/566/2048",
+          "description": "Occaecati molestias curto amaritudo uredo sursum temeritas admoveo.",
+          "timestamp": "2025-11-08T16:56:31.560Z"
+        },
+        {
+          "id": "06f14038-ee24-4b11-b46b-89396d2e9bc0",
+          "uri": "https://picsum.photos/seed/gILHiv/910/2222",
+          "thumbnail": "https://loremflickr.com/116/3210?lock=3720192677509016",
+          "description": "Ademptio assentator curis collum deripio ciminatio rem ab.",
+          "timestamp": "2025-07-16T09:56:01.888Z"
+        },
+        {
+          "id": "e0ca931e-e3f8-4042-b2db-57b39d10d153",
+          "uri": "https://loremflickr.com/170/1960?lock=5649810113305227",
+          "thumbnail": "https://picsum.photos/seed/rPFAE2k/1205/3592",
+          "description": "Aduro caries arma accusantium dedecor color clamo summopere abstergo.",
+          "timestamp": "2025-02-24T15:46:30.304Z"
+        }
+      ],
+      "status": "approved",
+      "createdAt": "2025-02-02T22:32:39.524Z",
+      "updatedAt": "2025-02-24T21:23:27.509Z",
+      "estimatedServiceTime": "2026-05-13T23:26:48.712Z",
+      "actualServiceTime": "2025-12-04T00:47:33.161Z",
+      "technicianId": "2d3faf59-4844-43a3-8bb6-5ebdc2e98050",
+      "technicianName": "Geraldine Hammes",
+      "technicianPhone": "(985) 635-9765 x6096",
+      "serviceNotes": "Tot alter stultus aliquam torqueo avaritia vicinus totidem condico adimpleo. Quisquam consequatur quas suasoria caste magnam tam corrupti. Contra recusandae vos crur degenero accendo cenaculum corpus.",
+      "invoiceId": "7f868e7f-6515-4d28-be9a-6013f34d985e"
+    },
+    {
+      "id": "c4d2b054-cf6c-4fc4-a058-2eecdad8dc91",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vehicleId": "2e536171-4c29-4453-8906-3d9da5b40a32",
+      "vehicleVIN": "BU2428XV9DDW41521",
+      "requestorId": "3419bc92-3063-4961-b4b0-c7f3dd965999",
+      "location": {
+        "latitude": 43.8385,
+        "longitude": -101.8979,
+        "address": "57076 Fisher Fork"
+      },
+      "issueType": "puncture",
+      "priority": "scheduled",
+      "description": "Tamquam traho talis concedo mollitia architecto coma aliqua esse. Deserunt vergo ex atqui crur atqui. Sponte uter conitor coniecto eligendi nemo bonus modi.",
+      "photos": [
+        {
+          "id": "134c6ac1-2d2c-41a1-9177-646b64c51803",
+          "uri": "https://picsum.photos/seed/D7CNignmy/2879/2188",
+          "thumbnail": "https://picsum.photos/seed/QBhKMC/3371/1791",
+          "description": "Avaritia pel arca voveo talio aedificium quas acsi.",
+          "timestamp": "2025-02-17T11:42:50.070Z"
+        },
+        {
+          "id": "f00deb86-af00-4213-bc53-6bafbf552fba",
+          "uri": "https://loremflickr.com/578/576?lock=3647498426313251",
+          "thumbnail": "https://loremflickr.com/651/3056?lock=7499027323645631",
+          "description": "Adipisci vesica comparo constans utilis articulus textus arx carpo debilito.",
+          "timestamp": "2025-07-11T06:42:11.217Z"
+        },
+        {
+          "id": "a311a756-57c1-498b-9816-fb0acb8f3aaa",
+          "uri": "https://picsum.photos/seed/H5OHyxVM3H/3280/1670",
+          "thumbnail": "https://picsum.photos/seed/ULqBm8/2098/2399",
+          "description": "Aeneus summisse non validus sublime sed aeternus beatus tendo.",
+          "timestamp": "2025-04-22T13:15:22.198Z"
+        },
+        {
+          "id": "273c2686-f08b-49f8-b4b9-b92f337be887",
+          "uri": "https://loremflickr.com/1916/3404?lock=7365181964509194",
+          "thumbnail": "https://loremflickr.com/2480/96?lock=3166950229216055",
+          "description": "Viduo assentator alias.",
+          "timestamp": "2025-10-01T08:46:54.728Z"
+        }
+      ],
+      "status": "approved",
+      "createdAt": "2024-12-27T00:41:23.577Z",
+      "updatedAt": "2025-01-11T16:21:18.182Z",
+      "estimatedServiceTime": "2026-05-26T05:47:53.222Z",
+      "actualServiceTime": "2025-12-03T15:14:21.945Z",
+      "technicianId": "eeec9f3b-d158-4d0b-b802-03845301fe51",
+      "technicianName": "Ms. Genevieve Lind",
+      "technicianPhone": "564-217-7786 x86928",
+      "serviceNotes": "Quos cum anser degusto tot. Perferendis vallum canonicus volo. Derideo theologus cuius adulescens utilis crux adsidue benigne arcesso.",
+      "invoiceId": "b96e22fe-0c60-49b8-af44-00e70f8ea6e5"
+    },
+    {
+      "id": "bfffa808-7094-4b83-a9c9-5d8a75f40e70",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "0571f137-765e-4074-b78c-76434ab1fb20",
+      "vehicleVIN": "SE6X4GCZ8FG141948",
+      "requestorId": "b04824e9-f332-416b-a938-295d5a5c8381",
+      "location": {
+        "latitude": 37.4038,
+        "longitude": -77.2327,
+        "address": "71017 Station Road"
+      },
+      "issueType": "worn_tread",
+      "priority": "standard",
+      "description": "Brevis iure tergo patrocinor confero antiquus. Vulticulus cornu suadeo laboriosam cariosus aurum conculco. Arceo arguo thesaurus voluptas cogito.",
+      "photos": [
+        {
+          "id": "78c1784b-334f-4498-b037-3db8aa1d7b70",
+          "uri": "https://loremflickr.com/1719/1074?lock=3914987144091362",
+          "thumbnail": "https://picsum.photos/seed/FYEr6AgBpf/1191/987",
+          "description": "Stillicidium careo solio creo.",
+          "timestamp": "2025-11-09T01:07:13.551Z"
+        }
+      ],
+      "status": "submitted",
+      "createdAt": "2024-12-28T01:13:15.117Z",
+      "updatedAt": "2025-03-07T04:48:41.639Z",
+      "estimatedServiceTime": "2026-08-13T04:53:13.911Z",
+      "actualServiceTime": "2025-12-03T07:35:12.884Z",
+      "technicianId": "6f9585a4-6535-4791-8272-76806fb80c38",
+      "technicianName": "Meredith Hermann",
+      "technicianPhone": "(880) 712-0043 x05903",
+      "serviceNotes": "Deserunt tutis creo. Despecto eveniet tenus. Conscendo vesco cito admiratio defaeco tenax.",
+      "invoiceId": "57252988-0595-404c-a880-9bb9e7e4fea1"
+    },
+    {
+      "id": "f158ee37-38bf-49be-9e8a-f5c93d1ff1a2",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "b8d52f5c-199a-419e-b00b-cd70bc189262",
+      "vehicleVIN": "2SRRPA8J2RYN66781",
+      "requestorId": "abe759dd-e1f5-4fc5-97ef-4f28581a0105",
+      "location": {
+        "latitude": 25.0654,
+        "longitude": -69.8292,
+        "address": "155 Darron Port"
+      },
+      "issueType": "flat_tire",
+      "priority": "urgent",
+      "description": "Tubineus cultura copiose verecundia quod concido textilis. Confugo aegrotatio aperiam aestus vorago auxilium succedo utique. Tamquam colligo viriliter tricesimus crux adiuvo.",
+      "photos": [
+        {
+          "id": "0cda0831-2c85-4a1c-b011-67c4bafd39fa",
+          "uri": "https://loremflickr.com/1644/2571?lock=1795968341156707",
+          "thumbnail": "https://picsum.photos/seed/I5UB54T6uE/3895/986",
+          "description": "Laudantium cupio sunt sum aetas et.",
+          "timestamp": "2025-10-24T21:01:18.471Z"
+        }
+      ],
+      "status": "invoiced",
+      "createdAt": "2025-03-12T19:22:55.705Z",
+      "updatedAt": "2025-04-06T21:16:42.722Z",
+      "estimatedServiceTime": "2026-11-16T00:56:58.380Z",
+      "actualServiceTime": "2025-12-04T03:11:23.039Z",
+      "technicianId": "71f573a9-57ae-489f-abfe-1f00964841b9",
+      "technicianName": "Ms. Terri Hintz",
+      "technicianPhone": "625-846-4104 x0885",
+      "serviceNotes": "Cohors ulciscor blandior adopto tamdiu atrox ver voluptatibus capto cernuus. Ratione exercitationem defetiscor uberrime tametsi caste summopere ter amor. Conduco cunae pectus corporis suasoria tabula spiculum sollicito utilis.",
+      "invoiceId": "ba0d3754-3678-40f5-8a98-2a28941c3624"
+    },
+    {
+      "id": "2ddc46e7-6fb0-43f8-93f3-1dfc604a583d",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vehicleId": "bbd892ab-bb01-4742-8db7-c55173482ddb",
+      "vehicleVIN": "214WJEM0R2K667530",
+      "requestorId": "e3527a66-874c-41d8-a0b0-b790e3d1ade8",
+      "location": {
+        "latitude": 40.7417,
+        "longitude": -97.4269,
+        "address": "900 Janelle Landing"
+      },
+      "issueType": "worn_tread",
+      "priority": "urgent",
+      "description": "Placeat summisse mollitia coniuratio numquam vestrum studio. Earum spiculum defetiscor dedico quaerat error verbera sumptus umquam ciminatio. Depraedor quibusdam substantia inventore claustrum verumtamen benigne arma eius subnecto.",
+      "photos": [
+        {
+          "id": "dc97387b-3bb6-46a5-b7a3-6b0cecebdb12",
+          "uri": "https://picsum.photos/seed/kF7nk4nN/3080/858",
+          "thumbnail": "https://picsum.photos/seed/r3YvniHL/3827/3466",
+          "description": "Arguo universe calcar aliquam vita quae.",
+          "timestamp": "2025-05-05T01:25:43.210Z"
+        },
+        {
+          "id": "ebae6ef3-f3a1-47cf-a074-b87eeb690064",
+          "uri": "https://loremflickr.com/123/3168?lock=692187000527624",
+          "thumbnail": "https://picsum.photos/seed/UDV3O6BvBk/3618/1743",
+          "description": "Vulariter uter candidus tutis beneficium careo tempus eligendi condico carmen.",
+          "timestamp": "2025-08-09T15:19:49.032Z"
+        },
+        {
+          "id": "d98713be-17f4-48ce-a920-5570ea8925de",
+          "uri": "https://loremflickr.com/1753/3525?lock=4649020763140625",
+          "thumbnail": "https://picsum.photos/seed/pOz1P4/424/443",
+          "description": "Tracto usque advoco viriliter aequitas vereor video.",
+          "timestamp": "2025-08-08T05:13:39.864Z"
+        }
+      ],
+      "status": "cancelled",
+      "createdAt": "2025-04-05T18:41:21.758Z",
+      "updatedAt": "2025-11-06T09:57:27.656Z",
+      "estimatedServiceTime": "2026-04-20T21:01:54.918Z",
+      "actualServiceTime": "2025-12-04T02:31:37.062Z",
+      "technicianId": "6e67403c-ef86-4c54-8a3e-94c6f5e47bff",
+      "technicianName": "Dave Crist",
+      "technicianPhone": "888-690-1458 x3172",
+      "serviceNotes": "Careo vilicus sequi tolero depereo campana cavus cumque supra. Argumentum validus argentum suus derelinquo speciosus dapifer cunabula. Expedita cognatus utique terror debitis substantia vapulus.",
+      "invoiceId": "5af18529-98bf-4ba0-b26b-b413c411be05"
+    },
+    {
+      "id": "e327540f-98a3-4e4b-8c54-02ff7ad69563",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vehicleId": "20da0374-c899-4b5a-9fc6-75c68d24fe14",
+      "vehicleVIN": "2ZDT61ARGSSK64085",
+      "requestorId": "2a44f591-01b5-4b11-b90a-50488e697a60",
+      "location": {
+        "latitude": 34.485,
+        "longitude": -87.9396,
+        "address": "638 Hane Throughway"
+      },
+      "issueType": "road_hazard",
+      "priority": "standard",
+      "description": "Cornu crepusculum turbo atavus degero claudeo votum. Charisma vesper adsidue deleniti repellendus eius sortitus solutio virga vinculum. Veniam astrum ciminatio tergum astrum cupiditate alioqui vae colo laboriosam.",
+      "photos": [
+        {
+          "id": "d2c6e224-3e93-4ce3-8916-f89701bb4056",
+          "uri": "https://loremflickr.com/1860/3566?lock=7317060190067204",
+          "thumbnail": "https://picsum.photos/seed/mGlvv/183/1482",
+          "description": "Tantillus recusandae corporis vado curso odit arguo calcar amiculum.",
+          "timestamp": "2025-05-14T20:36:38.561Z"
+        },
+        {
+          "id": "11bfc90c-ff72-480a-90ed-0dafa5ba1af1",
+          "uri": "https://picsum.photos/seed/KvbAT29UYi/3854/822",
+          "thumbnail": "https://picsum.photos/seed/hn8RwZL8Mt/115/640",
+          "description": "Spero carmen cupiditas vox tero praesentium quisquam.",
+          "timestamp": "2025-01-05T20:40:23.706Z"
+        },
+        {
+          "id": "7a6f3aa7-ef2d-4fbf-a12d-150b59461434",
+          "uri": "https://loremflickr.com/3221/1261?lock=109350249052559",
+          "thumbnail": "https://picsum.photos/seed/FHhoXn/2842/152",
+          "description": "Voluptatem patria claustrum vitiosus subseco tero alius.",
+          "timestamp": "2025-04-09T10:12:38.778Z"
+        }
+      ],
+      "status": "on_hold",
+      "createdAt": "2024-12-08T05:27:18.690Z",
+      "updatedAt": "2024-12-17T01:02:59.529Z",
+      "estimatedServiceTime": "2026-03-14T08:07:22.053Z",
+      "actualServiceTime": "2025-12-03T15:16:23.149Z",
+      "technicianId": "a71b4f55-74bb-4582-ad06-276dcb0c57d8",
+      "technicianName": "Gloria Kuphal",
+      "technicianPhone": "(848) 698-2608 x79022",
+      "serviceNotes": "Alioqui voco ut vado quam aufero vorago creta desidero amo. Numquam somniculosus suscipio dicta sperno considero vestrum titulus taedium advoco. Verbera possimus ipsa aestas.",
+      "invoiceId": "b632219f-0a45-4865-b8f6-36d017999084"
+    },
+    {
+      "id": "076679f5-2d64-46f1-b7aa-52c9d02591d0",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vehicleId": "04bd3991-a65e-45d2-bf1f-7113164cca31",
+      "vehicleVIN": "B8FRH6URGYN341676",
+      "requestorId": "a0594408-8c33-40c8-99b0-a460f4639b3f",
+      "location": {
+        "latitude": 42.5239,
+        "longitude": -124.5217,
+        "address": "4428 Albert Meadows"
+      },
+      "issueType": "worn_tread",
+      "priority": "urgent",
+      "description": "Somnus delicate repellat voluptatem celo ara territo. Cattus una ut thymbra collum absorbeo. Colligo claro deleo velum confido.",
+      "photos": [
+        {
+          "id": "ce5dba52-fb47-467f-89b1-7ad2e7d25aed",
+          "uri": "https://loremflickr.com/3773/2266?lock=1721408814970386",
+          "thumbnail": "https://loremflickr.com/1936/2357?lock=2731894378256503",
+          "description": "Audentia aestivus taedium alioqui damnatio arguo umbra suppono aequitas.",
+          "timestamp": "2025-11-24T01:45:05.003Z"
+        },
+        {
+          "id": "25f928a7-f6b2-450b-9f82-308fe678a088",
+          "uri": "https://loremflickr.com/1404/1483?lock=6814628786460611",
+          "thumbnail": "https://picsum.photos/seed/SBIAvz/2849/3053",
+          "description": "Carus terreo benigne deputo.",
+          "timestamp": "2025-11-26T06:04:39.940Z"
+        },
+        {
+          "id": "409f51ba-a80d-4809-a5dd-13426b85dd16",
+          "uri": "https://picsum.photos/seed/LhpD9/2114/722",
+          "thumbnail": "https://picsum.photos/seed/VuG0cL/3206/653",
+          "description": "Adopto adsum viscus sequi delicate.",
+          "timestamp": "2025-12-01T05:53:06.093Z"
+        }
+      ],
+      "status": "in_progress",
+      "createdAt": "2025-11-07T18:48:20.826Z",
+      "updatedAt": "2025-11-26T06:32:02.348Z",
+      "estimatedServiceTime": "2026-07-08T07:20:37.475Z",
+      "actualServiceTime": "2025-12-03T04:51:13.956Z",
+      "technicianId": "3419c305-02fe-4251-8009-a06d6ca262e2",
+      "technicianName": "Gerard Smith",
+      "technicianPhone": "747.353.7354 x62830",
+      "serviceNotes": "Desipio crustulum crudelis. Victoria derelinquo basium voluptates summisse volaticus autus pel. Clibanus conculco curiositas.",
+      "invoiceId": "77644b38-0fa6-42a3-8fe6-e60e015b27d9"
+    },
+    {
+      "id": "4c795d50-de13-482a-a9d3-1c9abf953eaf",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vehicleId": "bd065820-8f78-4225-b329-1579fd7d9af5",
+      "vehicleVIN": "3005URN26LU209309",
+      "requestorId": "57d18a2e-7575-40e3-b1f5-34b41b63cb7a",
+      "location": {
+        "latitude": 47.9365,
+        "longitude": -96.0352,
+        "address": "5095 E 10th Street"
+      },
+      "issueType": "pressure_loss",
+      "priority": "urgent",
+      "description": "Truculenter alveus suspendo sonitus quas architecto. Aer coma dignissimos corona totus ad sustineo. Suscipio thesaurus solvo bis abscido cum adfero caelum certus.",
+      "photos": [
+        {
+          "id": "4f2875a7-2efd-49ea-aa09-d6bda81a3a06",
+          "uri": "https://picsum.photos/seed/5WUVZtyB/675/2134",
+          "thumbnail": "https://picsum.photos/seed/rU97a/3396/1070",
+          "description": "Copiose vitium occaecati minima.",
+          "timestamp": "2025-11-20T04:29:01.982Z"
+        }
+      ],
+      "status": "in_progress",
+      "createdAt": "2025-11-13T04:55:26.152Z",
+      "updatedAt": "2025-11-16T01:03:09.330Z",
+      "estimatedServiceTime": "2026-03-01T00:59:16.414Z",
+      "actualServiceTime": "2025-12-04T01:27:47.272Z",
+      "technicianId": "57a312dd-015d-44a4-a265-6cd95d79cb7a",
+      "technicianName": "Miss Dora Schroeder",
+      "technicianPhone": "(956) 803-8993 x448",
+      "serviceNotes": "Cruentus ciminatio valetudo voco vito depulso deduco magnam thorax compello. Cras cui vitium deorsum. Usitas voluptates sollers antiquus decretum maiores suscipit.",
+      "invoiceId": "b9abb8d3-dc72-4707-a2ac-70ff36f2b4ff"
+    },
+    {
+      "id": "1c847e8c-49e2-477f-9d46-e13691f3cc6f",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vehicleId": "20da0374-c899-4b5a-9fc6-75c68d24fe14",
+      "vehicleVIN": "2ZDT61ARGSSK64085",
+      "requestorId": "74932f15-01ae-4356-a581-49a83bf08de1",
+      "location": {
+        "latitude": 29.0664,
+        "longitude": -73.1669,
+        "address": "66276 Kuvalis Walk"
+      },
+      "issueType": "puncture",
+      "priority": "urgent",
+      "description": "Corrupti vicissitudo acceptus confero arceo tenetur utor quos virgo degero. Vulgaris quis vereor voveo in suffoco defendo cursus. Subnecto est solitudo verbera reiciendis delinquo non advenio sufficio.",
+      "photos": [
+        {
+          "id": "e251d375-275c-44ec-ac4d-c5a99c9bcee6",
+          "uri": "https://picsum.photos/seed/6MBcv/1406/444",
+          "thumbnail": "https://picsum.photos/seed/htwklF/3282/593",
+          "description": "Aggredior ullam modi comparo fugiat avaritia alioqui.",
+          "timestamp": "2025-09-18T22:29:57.666Z"
+        },
+        {
+          "id": "2cc1eaaf-2b3a-47dc-baa2-f66ebe6ed108",
+          "uri": "https://picsum.photos/seed/nRf0Z/2292/1768",
+          "thumbnail": "https://loremflickr.com/3227/2655?lock=3301046970803960",
+          "description": "Thema video solutio sperno cavus claro eius.",
+          "timestamp": "2025-07-27T17:55:13.701Z"
+        },
+        {
+          "id": "28b9e9d6-8d59-4ba9-976b-763bafee469d",
+          "uri": "https://picsum.photos/seed/UWSyTY4C/1322/3286",
+          "thumbnail": "https://picsum.photos/seed/7CMIuF/804/690",
+          "description": "Attonbitus amitto succedo umerus error voluptas.",
+          "timestamp": "2025-10-19T12:49:48.165Z"
+        }
+      ],
+      "status": "in_progress",
+      "createdAt": "2025-05-28T05:16:27.661Z",
+      "updatedAt": "2025-10-02T14:48:26.367Z",
+      "estimatedServiceTime": "2026-04-19T23:11:52.472Z",
+      "actualServiceTime": "2025-12-03T04:57:17.776Z",
+      "technicianId": "da82183c-5ffc-49ca-ac42-b7351e8020d0",
+      "technicianName": "Tyrone Jaskolski",
+      "technicianPhone": "1-575-420-4002",
+      "serviceNotes": "Addo certe assentator delibero summopere optio. Iusto arcesso succedo consectetur utilis. Tego articulus thymum compono adhaero aiunt.",
+      "invoiceId": "bef4d198-9624-42d7-a3ce-f2979aa65b5c"
+    },
+    {
+      "id": "0ae94f99-c652-428f-bab1-21178c341033",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vehicleId": "998a5b16-e254-4138-963d-ef96ba352838",
+      "vehicleVIN": "URLATZZKRVPJ12962",
+      "requestorId": "034ccfa5-88e8-48dc-8375-8bdba515e0a7",
+      "location": {
+        "latitude": 44.711,
+        "longitude": -114.5098,
+        "address": "69670 E Broadway Street"
+      },
+      "issueType": "sidewall_damage",
+      "priority": "scheduled",
+      "description": "Enim tendo curriculum atqui vesper cum. Arguo strenuus tutis. Tibi tamquam magni pariatur.",
+      "photos": [
+        {
+          "id": "0397db8f-a53d-4d83-a46a-fcbe2035e471",
+          "uri": "https://loremflickr.com/2413/113?lock=7504002295119764",
+          "thumbnail": "https://picsum.photos/seed/FveqC29/2463/629",
+          "description": "Tergum sumptus aliquid.",
+          "timestamp": "2025-11-24T00:25:15.982Z"
+        },
+        {
+          "id": "9531d9a1-5780-4dd3-befd-0f7b0ad4476e",
+          "uri": "https://loremflickr.com/2327/3108?lock=5523839491055697",
+          "thumbnail": "https://loremflickr.com/3296/1818?lock=3222092274031104",
+          "description": "Conatus bellicus thema.",
+          "timestamp": "2025-11-30T20:00:40.718Z"
+        }
+      ],
+      "status": "approved",
+      "createdAt": "2025-11-05T06:23:36.977Z",
+      "updatedAt": "2025-11-11T07:18:56.473Z",
+      "estimatedServiceTime": "2026-05-11T16:25:42.143Z",
+      "actualServiceTime": "2025-12-03T08:35:30.513Z",
+      "technicianId": "0ee89460-bc69-49db-b1a5-0418fdd9514b",
+      "technicianName": "Javier Graham",
+      "technicianPhone": "(255) 441-3854 x00757",
+      "serviceNotes": "Vigilo verecundia tabernus. Tabula velum crux taedium surculus. Cedo textor volo canto turba.",
+      "invoiceId": "ae3590b2-97cc-412a-bf7a-256716ce933c"
+    },
+    {
+      "id": "e93a78d2-c768-491c-aba9-cb4ccd39678e",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "66cc25a5-f55c-4310-8ed4-f023c59db825",
+      "vehicleVIN": "E8D3R7U8USSE32802",
+      "requestorId": "59088c19-aa80-4ab7-a1fa-9a81e9ebc9a9",
+      "location": {
+        "latitude": 31.4057,
+        "longitude": -123.0605,
+        "address": "29447 Jocelyn Wells"
+      },
+      "issueType": "pressure_loss",
+      "priority": "scheduled",
+      "description": "Synagoga vere adflicto vir acies clam delectus vigor. Iste demergo totus sint vomer careo abutor. Curriculum angulus ullam textus trado cohaero viridis absum.",
+      "photos": [
+        {
+          "id": "9b718a1b-a0a4-4a65-92da-7b8a703b9ee0",
+          "uri": "https://picsum.photos/seed/kJl7SuyRi/378/619",
+          "thumbnail": "https://picsum.photos/seed/pM25EX/2929/2225",
+          "description": "Barba asporto arcesso alias despecto correptius vallum quae tondeo candidus.",
+          "timestamp": "2025-05-18T21:16:22.584Z"
+        },
+        {
+          "id": "2a4be8ef-9938-40c7-996a-c754b20038b8",
+          "uri": "https://picsum.photos/seed/4v8E6LDjw/2824/760",
+          "thumbnail": "https://picsum.photos/seed/2YpCDcWDy/3408/1085",
+          "description": "Abundans sponte vado omnis vobis quas toties.",
+          "timestamp": "2025-06-27T03:37:32.522Z"
+        },
+        {
+          "id": "d4811a68-5791-4570-b5cf-052c58be730e",
+          "uri": "https://picsum.photos/seed/MQPURy9/2922/2536",
+          "thumbnail": "https://loremflickr.com/363/472?lock=7615314814639494",
+          "description": "Via adduco summisse sumo triumphus capitulus defetiscor.",
+          "timestamp": "2025-09-07T16:00:49.452Z"
+        },
+        {
+          "id": "84f4ff1a-624f-4754-82df-dd2fc82b8d3d",
+          "uri": "https://picsum.photos/seed/1UnVMM/3289/1123",
+          "thumbnail": "https://loremflickr.com/3990/1490?lock=2091808943565463",
+          "description": "Ter utroque conatus vis sint talus pel arbitro ex.",
+          "timestamp": "2025-11-18T11:45:16.112Z"
+        }
+      ],
+      "status": "invoiced",
+      "createdAt": "2025-04-09T05:46:10.130Z",
+      "updatedAt": "2025-12-01T02:32:17.815Z",
+      "estimatedServiceTime": "2026-04-30T15:14:01.260Z",
+      "actualServiceTime": "2025-12-03T11:52:11.039Z",
+      "technicianId": "38c3b66c-6d1e-4271-9126-ccb0b09e990f",
+      "technicianName": "Christine Gleichner-Dare",
+      "technicianPhone": "954-536-9014",
+      "serviceNotes": "Thalassinus voco incidunt aegre. Vulariter verecundia arguo. Alo abutor aptus terra cilicium.",
+      "invoiceId": "8706c780-b36f-43c3-bcdc-d80ff4bf3593"
+    },
+    {
+      "id": "b2136343-0206-4f16-91c4-36b967e9b487",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "4c890532-127e-4e9c-a833-dd6d6c70732f",
+      "vehicleVIN": "NZSGL7MSDZDK07713",
+      "requestorId": "d406c6aa-b186-4092-91ce-4e1f3807b23c",
+      "location": {
+        "latitude": 32.5919,
+        "longitude": -69.9255,
+        "address": "1880 Hillside Close"
+      },
+      "issueType": "alignment_issue",
+      "priority": "scheduled",
+      "description": "Adinventitias depereo studio consectetur tui. Carmen avarus tamisium admoveo tenus supra. Careo pecto iure aetas vicinus cedo adulatio.",
+      "photos": [
+        {
+          "id": "55f4e8b9-3197-44a6-b63c-fa85dc73289c",
+          "uri": "https://picsum.photos/seed/26StsTR/2731/515",
+          "thumbnail": "https://picsum.photos/seed/VbvWVm/738/2723",
+          "description": "Adsum termes viridis.",
+          "timestamp": "2025-11-26T09:31:30.822Z"
+        },
+        {
+          "id": "3ebdf578-5cf9-45d5-af71-dfb28c761e94",
+          "uri": "https://loremflickr.com/3336/1245?lock=5194468427071944",
+          "thumbnail": "https://loremflickr.com/2253/2419?lock=3228246240944762",
+          "description": "Deputo urbanus eaque comburo verto voveo adhuc.",
+          "timestamp": "2025-09-19T18:10:45.782Z"
+        },
+        {
+          "id": "4a21a6ce-f1e7-4771-ae7b-dda3039e9640",
+          "uri": "https://picsum.photos/seed/HxXMcGWBf/2355/2144",
+          "thumbnail": "https://picsum.photos/seed/MJkqn/1/2449",
+          "description": "Cultura supellex unus campana vitiosus creta vitium vita aeternus concedo.",
+          "timestamp": "2025-08-31T18:03:34.381Z"
+        },
+        {
+          "id": "fe38a14b-22c7-4d8a-a917-f8be47fc24e6",
+          "uri": "https://loremflickr.com/523/538?lock=5645624735923537",
+          "thumbnail": "https://picsum.photos/seed/oq22Wr01cd/777/301",
+          "description": "Cetera alius tepesco venia vulgo asper toties constans alienus.",
+          "timestamp": "2025-10-31T22:38:06.464Z"
+        }
+      ],
+      "status": "dispatched",
+      "createdAt": "2025-08-18T21:07:51.349Z",
+      "updatedAt": "2025-09-01T21:31:48.638Z",
+      "estimatedServiceTime": "2026-01-14T15:35:31.077Z",
+      "actualServiceTime": "2025-12-03T18:42:42.383Z",
+      "technicianId": "74189e7f-78a4-4749-9f4e-1190f93c9169",
+      "technicianName": "Emilio Watsica",
+      "technicianPhone": "1-264-694-8698 x50641",
+      "serviceNotes": "Celer vigilo voro vapulus spes vicissitudo peior vergo cupiditate. Amet adopto velut recusandae deserunt tamquam adfectus. Fugiat asperiores timidus solium.",
+      "invoiceId": "94e77d1f-1110-47fa-9ced-cccb76dc7d29"
+    },
+    {
+      "id": "bd73b0b4-242f-419f-85c1-e3846e1ee3a0",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vehicleId": "404122a1-e53b-45a1-85fe-23925043500a",
+      "vehicleVIN": "BKDMGECL5VWL09344",
+      "requestorId": "329ad522-6a3e-46c8-a688-d2837b7b74b9",
+      "location": {
+        "latitude": 40.815,
+        "longitude": -115.4631,
+        "address": "85302 Delilah Valleys"
+      },
+      "issueType": "alignment_issue",
+      "priority": "urgent",
+      "description": "Cubicularis repellendus reprehenderit decretum qui socius acceptus adicio suscipio spiculum. Aegre derelinquo viridis aeternus vitium confugo coruscus. Bibo corpus bestia in eius adulatio commemoro aestivus thesaurus.",
+      "photos": [
+        {
+          "id": "92575a0c-9bb3-4442-86ee-c4b26f83057e",
+          "uri": "https://picsum.photos/seed/pSmtMqZ/636/559",
+          "thumbnail": "https://picsum.photos/seed/PMCZ7pTTE/2038/2331",
+          "description": "Degenero necessitatibus nulla arma.",
+          "timestamp": "2025-09-04T17:33:20.212Z"
+        }
+      ],
+      "status": "submitted",
+      "createdAt": "2025-01-13T19:44:19.146Z",
+      "updatedAt": "2025-06-10T19:12:25.105Z",
+      "estimatedServiceTime": "2025-12-26T13:16:09.571Z",
+      "actualServiceTime": "2025-12-03T08:28:18.040Z",
+      "technicianId": "b6e7f5d1-2e2c-4367-aa33-a3f2a123ee08",
+      "technicianName": "Emmett Johns",
+      "technicianPhone": "(488) 687-8140 x156",
+      "serviceNotes": "Cruentus officiis clarus vita distinctio ascit voluptas deficio. Uredo magnam comptus summopere corroboro calco denuncio. Talio illum volva certus vigor nam depopulo derelinquo cometes antiquus.",
+      "invoiceId": "f6f20967-c7f5-43d2-964e-da67b75c8a93"
+    },
+    {
+      "id": "97dd9239-042c-4cfa-abf2-5933008b0413",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "66cc25a5-f55c-4310-8ed4-f023c59db825",
+      "vehicleVIN": "E8D3R7U8USSE32802",
+      "requestorId": "90aa71fd-87dc-4b38-ba6c-0540f8abdc66",
+      "location": {
+        "latitude": 38.2542,
+        "longitude": -93.5618,
+        "address": "96834 Bahringer Shoal"
+      },
+      "issueType": "worn_tread",
+      "priority": "scheduled",
+      "description": "Alienus argentum antepono aggero custodia demoror amaritudo appono umerus acceptus. Calculus crapula decipio. Iusto caste pauper combibo degero sed votum deficio similique sub.",
+      "photos": [
+        {
+          "id": "b58d7224-5586-42a8-8ab9-55298a7cd89a",
+          "uri": "https://picsum.photos/seed/5m8dT4/1737/917",
+          "thumbnail": "https://picsum.photos/seed/gbcDU9EdD/527/3381",
+          "description": "Adficio ante credo coaegresco suspendo nihil.",
+          "timestamp": "2025-03-21T12:34:38.836Z"
+        },
+        {
+          "id": "b4ee95b1-4ac6-4666-92ff-9025493c767d",
+          "uri": "https://loremflickr.com/162/3553?lock=5935003594069025",
+          "thumbnail": "https://loremflickr.com/2555/248?lock=6325710029817310",
+          "description": "Facilis quam suppono depromo paulatim balbus non xiphias utrum.",
+          "timestamp": "2025-05-19T15:36:38.150Z"
+        }
+      ],
+      "status": "approved",
+      "createdAt": "2025-02-25T22:22:04.340Z",
+      "updatedAt": "2025-10-11T14:54:13.530Z",
+      "estimatedServiceTime": "2026-09-09T12:10:33.806Z",
+      "actualServiceTime": "2025-12-03T06:18:09.273Z",
+      "technicianId": "85f8f291-7701-4d18-a83e-b60969703800",
+      "technicianName": "Gloria Rutherford",
+      "technicianPhone": "(848) 242-1508 x7632",
+      "serviceNotes": "Clarus bardus crux vomito. Solium venustas solium campana apostolus sollers tondeo depromo alias. Cuppedia pecco subseco tergum aedificium audio voro auxilium veniam.",
+      "invoiceId": "5682a597-a2bd-4e15-806f-72813f5be53e"
+    },
+    {
+      "id": "23039cec-48ee-481c-825d-e5156216696c",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "66cc25a5-f55c-4310-8ed4-f023c59db825",
+      "vehicleVIN": "E8D3R7U8USSE32802",
+      "requestorId": "bab4cdf3-2ae5-426f-8aa8-2bfaa54344ec",
+      "location": {
+        "latitude": 35.2359,
+        "longitude": -121.8818,
+        "address": "536 Ashtyn Islands"
+      },
+      "issueType": "worn_tread",
+      "priority": "scheduled",
+      "description": "Decipio circumvenio utrimque vicissitudo tutis angulus corrigo brevis damno abeo. Perferendis apostolus cometes. Venia attonbitus timor uterque terror vereor veniam amo tolero verbum.",
+      "photos": [
+        {
+          "id": "6ce616ae-b051-4d16-ad8c-8bb4e02ac1d4",
+          "uri": "https://picsum.photos/seed/BWgEzu7a/1170/2966",
+          "thumbnail": "https://loremflickr.com/3494/1670?lock=1608411886607702",
+          "description": "Congregatio illum capillus.",
+          "timestamp": "2025-11-10T01:37:22.268Z"
+        }
+      ],
+      "status": "on_hold",
+      "createdAt": "2025-10-24T11:49:48.364Z",
+      "updatedAt": "2025-11-15T23:50:56.992Z",
+      "estimatedServiceTime": "2026-01-25T12:54:26.554Z",
+      "actualServiceTime": "2025-12-04T01:12:27.326Z",
+      "technicianId": "51d1305b-345a-4ebe-9153-ed8d6d853a2b",
+      "technicianName": "Lester Ward",
+      "technicianPhone": "1-416-813-5014",
+      "serviceNotes": "Decens curso teres callide dolores suffragium peccatus cena deputo utpote. Dolore appositus verto perferendis dedico aegrotatio sollers vindico quam. Coma canonicus timidus aggredior itaque bellicus caries adfero beatus capio.",
+      "invoiceId": "b492b008-f53c-4d7e-b290-102cb951efee"
+    },
+    {
+      "id": "a2c12029-48dc-4f8b-8e46-2f0374d04fa6",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "a065af9b-6e0a-43fa-a3b6-95c5a533bcf7",
+      "vehicleVIN": "5K430RXUMBB057338",
+      "requestorId": "791ebee9-1f4d-4643-91e9-6aedf8f44431",
+      "location": {
+        "latitude": 28.2422,
+        "longitude": -74.1655,
+        "address": "386 Bashirian Spring"
+      },
+      "issueType": "puncture",
+      "priority": "scheduled",
+      "description": "Doloribus ancilla verto agnosco compello. Crux ad apostolus ipsam caveo beneficium autus rem alias celer. Quo cruciamentum aliquid patria conor tutis aegrus congregatio.",
+      "photos": [
+        {
+          "id": "5a5a8a1c-da36-416c-8850-df10f378a567",
+          "uri": "https://picsum.photos/seed/Q0zef16SD/1542/2816",
+          "thumbnail": "https://picsum.photos/seed/YvgH7OQJHM/1086/368",
+          "description": "Animus conservo antepono caecus cavus certe pecto eos temporibus.",
+          "timestamp": "2025-03-25T13:16:46.508Z"
+        },
+        {
+          "id": "54a72b54-de5d-41d3-851e-aaceca50fa68",
+          "uri": "https://loremflickr.com/3992/3694?lock=4120296603816409",
+          "thumbnail": "https://loremflickr.com/3035/1086?lock=3073213432726979",
+          "description": "Bis omnis vigilo suus cupressus dicta patrocinor dolorem acervus.",
+          "timestamp": "2025-06-22T22:57:45.461Z"
+        },
+        {
+          "id": "891807f8-5851-46d4-88f9-762082bf982c",
+          "uri": "https://loremflickr.com/2168/1251?lock=7305267591495020",
+          "thumbnail": "https://loremflickr.com/892/1165?lock=3043785133926475",
+          "description": "Pecto valens triduana vomer.",
+          "timestamp": "2025-06-23T21:20:14.250Z"
+        }
+      ],
+      "status": "cancelled",
+      "createdAt": "2025-01-30T14:15:31.745Z",
+      "updatedAt": "2025-11-19T21:42:57.667Z",
+      "estimatedServiceTime": "2026-11-15T02:06:03.433Z",
+      "actualServiceTime": "2025-12-03T04:26:00.004Z",
+      "technicianId": "54e68543-ca56-47bd-80fb-15b651235d54",
+      "technicianName": "Hilda Rippin",
+      "technicianPhone": "903-687-7182 x330",
+      "serviceNotes": "Alter peccatus caute. Adaugeo aestivus vir perspiciatis. Theologus tabgo statim valens.",
+      "invoiceId": "f4e499ef-3305-4365-b556-2438b403ca3f"
+    },
+    {
+      "id": "73bc6253-affc-41b0-bf0c-b59f314201b3",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vehicleId": "2ba90e8f-9678-4679-82cc-327cbb9dc839",
+      "vehicleVIN": "RKXZEGD9VEEB12029",
+      "requestorId": "acf07c7b-2cbe-42e4-890b-d7a190be85e5",
+      "location": {
+        "latitude": 31.9355,
+        "longitude": -90.3284,
+        "address": "31381 Roob Point"
+      },
+      "issueType": "worn_tread",
+      "priority": "standard",
+      "description": "Tergum taceo labore sono adicio trans porro calamitas celebrer. Canonicus harum voluptatem hic vapulus. Sollicito curto perferendis curriculum sum auxilium dicta stipes demulceo alienus.",
+      "photos": [
+        {
+          "id": "eb707b47-eb50-40cb-b006-516407ae2f3d",
+          "uri": "https://picsum.photos/seed/bRGVxc/2104/2766",
+          "thumbnail": "https://loremflickr.com/1162/3717?lock=6451878349518957",
+          "description": "Ad aranea thorax conor arto vito rerum audax clibanus.",
+          "timestamp": "2025-11-30T05:39:26.356Z"
+        },
+        {
+          "id": "56d0e08c-e09f-4202-97cf-4ff46bd6fc00",
+          "uri": "https://loremflickr.com/3487/2692?lock=8392738511614727",
+          "thumbnail": "https://loremflickr.com/3259/919?lock=487265578327270",
+          "description": "Valens peior sol thymbra candidus.",
+          "timestamp": "2025-12-01T17:08:57.724Z"
+        }
+      ],
+      "status": "invoiced",
+      "createdAt": "2025-11-29T18:07:09.006Z",
+      "updatedAt": "2025-12-01T10:14:02.530Z",
+      "estimatedServiceTime": "2025-12-10T22:45:11.281Z",
+      "actualServiceTime": "2025-12-04T01:37:20.355Z",
+      "technicianId": "81fe4515-844b-4051-900e-8918076c3d17",
+      "technicianName": "Douglas Nienow",
+      "technicianPhone": "(477) 512-3450 x23391",
+      "serviceNotes": "Paens eos benigne texo. Accendo adopto trans arx damnatio autus varius animi. Recusandae creber charisma error.",
+      "invoiceId": "70be8828-8fb5-4f95-8567-ece46e61dd08"
+    },
+    {
+      "id": "60761429-f91a-4f64-9a5d-37b19172ce62",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vehicleId": "e2ae1544-a87d-4780-b46e-1947ea581776",
+      "vehicleVIN": "P48BF2HU8NMR23642",
+      "requestorId": "f32f7bec-6788-42b6-9671-80634fd44f6d",
+      "location": {
+        "latitude": 39.8739,
+        "longitude": -78.8602,
+        "address": "185 Wiza Extension"
+      },
+      "issueType": "alignment_issue",
+      "priority": "standard",
+      "description": "Tempore beatus ceno tracto vita aspernatur delego aranea. Deficio textilis veniam aperio. Curatio bestia thalassinus aut officia ager carpo cum tero ex.",
+      "photos": [
+        {
+          "id": "8af9eb9b-f93f-431d-afbc-c61d95c1a1fa",
+          "uri": "https://loremflickr.com/1203/1524?lock=7421655696254897",
+          "thumbnail": "https://loremflickr.com/1172/3761?lock=220422565514459",
+          "description": "Virgo ater adflicto tamen.",
+          "timestamp": "2025-10-27T05:04:49.714Z"
+        },
+        {
+          "id": "488416ae-bf7b-4639-9191-6e010e59fed7",
+          "uri": "https://loremflickr.com/2972/2793?lock=8570750452817221",
+          "thumbnail": "https://picsum.photos/seed/2xQxfUJuf/1151/857",
+          "description": "Surculus valeo denego ultio aro decumbo aureus vindico ulterius.",
+          "timestamp": "2025-07-30T00:53:50.581Z"
+        },
+        {
+          "id": "34de803e-5a02-4279-b23a-bf6fa0ae33d0",
+          "uri": "https://loremflickr.com/562/252?lock=119620074865467",
+          "thumbnail": "https://loremflickr.com/3578/3834?lock=1509533874900730",
+          "description": "Acidus mollitia non considero dapifer anser id arguo super.",
+          "timestamp": "2025-11-25T03:04:28.379Z"
+        }
+      ],
+      "status": "rejected",
+      "createdAt": "2025-05-24T12:37:51.421Z",
+      "updatedAt": "2025-06-24T20:52:46.240Z",
+      "estimatedServiceTime": "2026-10-17T09:44:36.737Z",
+      "actualServiceTime": "2025-12-04T00:23:11.379Z",
+      "technicianId": "78032cf7-68cc-4e59-8f02-c79e4acfe959",
+      "technicianName": "Geraldine Reynolds-Kerluke",
+      "technicianPhone": "1-477-224-1694 x698",
+      "serviceNotes": "Alii demergo conor adiuvo statua vinitor. Veritatis aggredior contra dignissimos tempora curvo arbitro terga sed. Libero fugit socius demoror.",
+      "invoiceId": "ebaac792-3f87-41b5-aa6d-e1292474e128"
+    },
+    {
+      "id": "04a56ad5-1069-45e2-9dbe-30b544197a70",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "e202941f-5746-456b-b9d5-70190a78fd11",
+      "vehicleVIN": "TEYXHVWSD0R414156",
+      "requestorId": "9110e5c8-c531-4920-a59d-22ee50713d72",
+      "location": {
+        "latitude": 36.9457,
+        "longitude": -71.9841,
+        "address": "7252 Bergnaum Key"
+      },
+      "issueType": "road_hazard",
+      "priority": "standard",
+      "description": "Atqui sollers quisquam aspernatur vitiosus tribuo. Quam reprehenderit subito tergum vel error. Video aqua admiratio aeger adulescens molestias vehemens bibo sunt.",
+      "photos": [
+        {
+          "id": "ba724200-7c61-4213-8f4a-8f1f83fa6491",
+          "uri": "https://loremflickr.com/2246/1410?lock=4904975204539906",
+          "thumbnail": "https://picsum.photos/seed/dZv8t/683/1598",
+          "description": "Deleniti aro trans.",
+          "timestamp": "2025-10-08T13:47:54.747Z"
+        }
+      ],
+      "status": "invoiced",
+      "createdAt": "2025-07-08T16:08:58.266Z",
+      "updatedAt": "2025-11-13T20:20:41.698Z",
+      "estimatedServiceTime": "2026-01-29T17:40:32.626Z",
+      "actualServiceTime": "2025-12-03T16:28:56.167Z",
+      "technicianId": "ce7d4f2e-ac35-4534-9ff7-6a0ea456c64d",
+      "technicianName": "Christina Price",
+      "technicianPhone": "(267) 325-9064",
+      "serviceNotes": "Allatus voro virga decens modi. Thesis debilito apto. Thymbra exercitationem adulescens succurro audax.",
+      "invoiceId": "95dc5ed0-bc56-4f05-bac9-46f3d46fcc1f"
+    },
+    {
+      "id": "8ea0db23-8401-4251-aa66-be936c08bd7d",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "e202941f-5746-456b-b9d5-70190a78fd11",
+      "vehicleVIN": "TEYXHVWSD0R414156",
+      "requestorId": "d7430dad-1b08-443b-b028-b0c38f7de1f0",
+      "location": {
+        "latitude": 28.9179,
+        "longitude": -90.1823,
+        "address": "9209 Hamill Mill"
+      },
+      "issueType": "flat_tire",
+      "priority": "scheduled",
+      "description": "Creptio uter statua voluptate iste aetas. Sollers ambulo combibo taceo vel beatus venio. Adfero subnecto thesaurus cicuta carmen clam.",
+      "photos": [
+        {
+          "id": "0c6d3ddd-602b-4acc-a450-8b91bdca565b",
+          "uri": "https://picsum.photos/seed/BXEuUwbFUo/3132/1227",
+          "thumbnail": "https://picsum.photos/seed/JAeXC/1124/3699",
+          "description": "Aetas stultus confugo aeternus patria ocer.",
+          "timestamp": "2025-07-18T11:32:16.903Z"
+        },
+        {
+          "id": "15210b1b-58c0-413d-99f7-24fe8f2ee119",
+          "uri": "https://loremflickr.com/967/2664?lock=8835524256174674",
+          "thumbnail": "https://loremflickr.com/2398/1350?lock=6687779693282996",
+          "description": "Absconditus blanditiis suasoria denuncio ultio sto crudelis patrocinor ipsam aequus.",
+          "timestamp": "2025-09-15T02:30:25.861Z"
+        }
+      ],
+      "status": "on_hold",
+      "createdAt": "2025-07-08T00:21:19.755Z",
+      "updatedAt": "2025-08-04T10:30:23.546Z",
+      "estimatedServiceTime": "2026-10-11T00:34:53.642Z",
+      "actualServiceTime": "2025-12-03T20:26:57.523Z",
+      "technicianId": "1ea9e9dd-d939-497f-a273-7eeddf07247d",
+      "technicianName": "Alexander Hoppe",
+      "technicianPhone": "1-236-373-0292",
+      "serviceNotes": "Terra terra depulso condico tenus tabernus anser tredecim. Cogo trucido accedo stabilis. Uredo deprecator amplitudo voluptatibus velut acies auctor delibero timidus.",
+      "invoiceId": "3dbf3e8f-3bf8-47eb-9cef-fcc7e5df6210"
+    },
+    {
+      "id": "7ad1226a-4d72-4b30-96d0-58bafdfc1dd7",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vehicleId": "98779c55-aada-4dda-b5a3-205d89a7f97f",
+      "vehicleVIN": "EFGF9XRSZVN743028",
+      "requestorId": "b2b697ad-d1c0-42bb-813b-b00d98aeb9a2",
+      "location": {
+        "latitude": 38.013,
+        "longitude": -87.0778,
+        "address": "33594 Ethelyn Radial"
+      },
+      "issueType": "road_hazard",
+      "priority": "scheduled",
+      "description": "Advoco aduro arcus comes una decor trepide. Sollers centum vehemens cruciamentum tristis avarus deprimo. Arcesso carus cado nostrum cruentus vox coaegresco bene aliquam decimus.",
+      "photos": [
+        {
+          "id": "c7c2c31d-a00e-40c8-a4f9-8592a3aca14e",
+          "uri": "https://picsum.photos/seed/2LaERS/1855/2812",
+          "thumbnail": "https://loremflickr.com/1190/2611?lock=4088443335583291",
+          "description": "Copia stipes triduana coniecto crinis.",
+          "timestamp": "2025-06-23T14:41:47.968Z"
+        },
+        {
+          "id": "3bbf530e-d857-451b-b243-c003b95ec8ea",
+          "uri": "https://picsum.photos/seed/mtnl1M/3839/2850",
+          "thumbnail": "https://loremflickr.com/848/2124?lock=4000691569848891",
+          "description": "Voluptates constans ustulo.",
+          "timestamp": "2025-08-23T17:38:40.184Z"
+        },
+        {
+          "id": "f8a5518b-acfe-485d-aa62-f5b2c28d4141",
+          "uri": "https://picsum.photos/seed/QkPzINrHrP/167/1733",
+          "thumbnail": "https://picsum.photos/seed/Nt2mc/1854/3458",
+          "description": "Optio vomito stultus avarus volva deprimo.",
+          "timestamp": "2025-06-24T20:00:18.162Z"
+        },
+        {
+          "id": "d483bcf0-c47a-487a-b1f1-5a09c294b565",
+          "uri": "https://picsum.photos/seed/dCeSjnh/618/1686",
+          "thumbnail": "https://loremflickr.com/1297/2825?lock=3348636497418718",
+          "description": "Tonsor ater vinum comparo impedit cuppedia custodia.",
+          "timestamp": "2025-05-22T23:47:23.992Z"
+        }
+      ],
+      "status": "approved",
+      "createdAt": "2025-01-08T13:56:25.340Z",
+      "updatedAt": "2025-11-27T19:54:16.531Z",
+      "estimatedServiceTime": "2026-02-25T12:08:04.983Z",
+      "actualServiceTime": "2025-12-03T06:57:46.184Z",
+      "technicianId": "f559df3b-2f5f-4a10-a550-cd7660c2850e",
+      "technicianName": "Mr. Tracy Kemmer-Stokes III",
+      "technicianPhone": "1-766-633-2659 x2445",
+      "serviceNotes": "Amplitudo provident sophismata caries certus. Super patria thymum magni acceptus subito ars utrimque cohaero. Casus capillus deprecator.",
+      "invoiceId": "95feb61f-b255-4ae9-a718-78d65d9d9dda"
+    },
+    {
+      "id": "37d68d58-b7e9-4cd3-bc7e-1e430a580ecd",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "vehicleId": "b8d52f5c-199a-419e-b00b-cd70bc189262",
+      "vehicleVIN": "2SRRPA8J2RYN66781",
+      "requestorId": "b4800044-3f79-459b-aa8a-919ce7192259",
+      "location": {
+        "latitude": 41.2374,
+        "longitude": -91.9484,
+        "address": "92714 N Court Street"
+      },
+      "issueType": "pressure_loss",
+      "priority": "urgent",
+      "description": "Bellum textor aegrus est. Crapula succurro ex voluptatem mollitia cohors accusator bellum ademptio dapifer. Alienus alii timor tristis bibo vestrum aggredior accusantium.",
+      "photos": [
+        {
+          "id": "25f5e253-51a4-461d-980e-6546fa17f322",
+          "uri": "https://picsum.photos/seed/Jw4GFTuY/2985/1123",
+          "thumbnail": "https://picsum.photos/seed/Ltg428i/1583/3250",
+          "description": "Corrumpo umbra casus comminor adsum suggero fugit considero doloribus.",
+          "timestamp": "2025-12-03T16:20:27.974Z"
+        },
+        {
+          "id": "cc66cd81-51e9-4856-9b13-a3ec69078aa2",
+          "uri": "https://loremflickr.com/1088/822?lock=6850074812432771",
+          "thumbnail": "https://loremflickr.com/2748/2151?lock=3799965015102238",
+          "description": "Deputo animi absorbeo.",
+          "timestamp": "2025-11-10T10:28:03.605Z"
+        },
+        {
+          "id": "2b87fa14-7121-4be2-8886-bd768942ba3d",
+          "uri": "https://picsum.photos/seed/bxfmjHn/894/283",
+          "thumbnail": "https://loremflickr.com/452/2361?lock=6833998018674505",
+          "description": "Pecto decumbo tremo cinis ver viriliter currus quam cubo.",
+          "timestamp": "2025-11-23T09:07:46.462Z"
+        },
+        {
+          "id": "d4acc77f-3cee-4a41-b200-b54f8261c199",
+          "uri": "https://picsum.photos/seed/YTep0/830/2750",
+          "thumbnail": "https://loremflickr.com/1653/3119?lock=1022731978399302",
+          "description": "Atqui conitor arx hic.",
+          "timestamp": "2025-11-17T08:56:12.614Z"
+        }
+      ],
+      "status": "approved",
+      "createdAt": "2025-10-14T06:32:18.336Z",
+      "updatedAt": "2025-11-13T02:52:03.197Z",
+      "estimatedServiceTime": "2026-09-26T16:06:41.511Z",
+      "actualServiceTime": "2025-12-03T12:01:14.584Z",
+      "technicianId": "e86573fd-c012-4e0a-a067-a0f590a887fb",
+      "technicianName": "Vicky Braun",
+      "technicianPhone": "1-267-523-5271 x429",
+      "serviceNotes": "Animus odit copia consequatur tendo bibo. Creta custodia ara voro arbustum atrocitas absens ipsum soluta conculco. Cum crepusculum dedecor caecus.",
+      "invoiceId": "7f8da04f-af70-4c12-a2e8-83470def6619"
+    },
+    {
+      "id": "655db76e-d47b-45b0-b8c5-16ecaaa18ec8",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "vehicleId": "2ba90e8f-9678-4679-82cc-327cbb9dc839",
+      "vehicleVIN": "RKXZEGD9VEEB12029",
+      "requestorId": "23f47d5e-40e3-436c-9504-9218c0568c4d",
+      "location": {
+        "latitude": 32.1911,
+        "longitude": -119.2242,
+        "address": "381 Berta Orchard"
+      },
+      "issueType": "pressure_loss",
+      "priority": "scheduled",
+      "description": "Conventus debeo via texo aqua vehemens. Degero cupiditas tardus vomito acidus. Comptus debeo comprehendo vetus ocer ducimus umbra vestigium thymbra.",
+      "photos": [
+        {
+          "id": "50d9aedd-0026-43d2-a3ac-f075f7db276b",
+          "uri": "https://loremflickr.com/1231/757?lock=713252864039705",
+          "thumbnail": "https://loremflickr.com/1489/1435?lock=1990288788916491",
+          "description": "Trans tenuis facere expedita cimentarius victus.",
+          "timestamp": "2025-05-22T02:04:03.536Z"
+        },
+        {
+          "id": "7d992ea0-7c79-4dcf-9668-3d00c76d5b0b",
+          "uri": "https://loremflickr.com/995/3416?lock=2218179438940223",
+          "thumbnail": "https://loremflickr.com/2360/1281?lock=1650892830353579",
+          "description": "Tabula supellex cariosus cubo apparatus bellum nobis.",
+          "timestamp": "2025-07-25T12:39:32.347Z"
+        },
+        {
+          "id": "6508b870-eb2f-4b68-a107-8d1dc1256711",
+          "uri": "https://picsum.photos/seed/9lF03zZH/2019/2603",
+          "thumbnail": "https://loremflickr.com/1086/750?lock=8455084375807266",
+          "description": "Velit aspernatur repellat.",
+          "timestamp": "2025-07-17T18:04:41.549Z"
+        },
+        {
+          "id": "c0dd2036-1cfd-406d-80f8-315d6ad19be6",
+          "uri": "https://picsum.photos/seed/EXCWp/3633/2098",
+          "thumbnail": "https://loremflickr.com/2947/3226?lock=8336099656245466",
+          "description": "Communis derideo corporis attero dolore apparatus.",
+          "timestamp": "2025-06-13T03:10:56.586Z"
+        }
+      ],
+      "status": "invoiced",
+      "createdAt": "2025-05-18T02:25:32.659Z",
+      "updatedAt": "2025-11-16T10:10:17.975Z",
+      "estimatedServiceTime": "2025-12-24T22:27:09.895Z",
+      "actualServiceTime": "2025-12-03T13:08:34.266Z",
+      "technicianId": "4d2c7460-b0d8-4823-a062-1c8a58a96748",
+      "technicianName": "Peggy Kuhn",
+      "technicianPhone": "436-792-4140 x9827",
+      "serviceNotes": "Conscendo enim aestivus necessitatibus veritatis vado bellum exercitationem vapulus arx. Dicta complectus expedita toties amor. Abutor vulnus cicuta.",
+      "invoiceId": "3b24478a-8f25-473f-b6b0-fad1f7344f5d"
+    },
+    {
+      "id": "f10b8b6e-a249-4afa-bf6c-60bfe6d3b5fa",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "vehicleId": "a15e10e2-28b2-4a96-8a77-d233ed0ebc57",
+      "vehicleVIN": "43UWAZBH5BP527655",
+      "requestorId": "c9496152-53a6-49c2-94bc-af8b548d1c67",
+      "location": {
+        "latitude": 29.2147,
+        "longitude": -82.9772,
+        "address": "5686 Armstrong Passage"
+      },
+      "issueType": "sidewall_damage",
+      "priority": "standard",
+      "description": "Thymum adulatio subiungo urbs usitas tabgo vereor sed cras. Amiculum conduco adsuesco denego tero turpis theca desino voluptates compono. Vesica apparatus audentia vix deprecator arca velit adeptio vado.",
+      "photos": [
+        {
+          "id": "cbbc423b-200e-4757-93c5-a7da794d2b4c",
+          "uri": "https://picsum.photos/seed/KWvH9/3589/2403",
+          "thumbnail": "https://picsum.photos/seed/Vn5aiTl/2527/858",
+          "description": "Admoveo armarium pecto usque atavus deludo.",
+          "timestamp": "2025-01-29T03:55:34.572Z"
+        },
+        {
+          "id": "ea3fbd47-edd0-4165-bf73-1cd95f8cf18f",
+          "uri": "https://picsum.photos/seed/xXXt15/2493/3294",
+          "thumbnail": "https://loremflickr.com/1295/2455?lock=1476614436480700",
+          "description": "Cibo labore cunae cunae cognatus defaeco.",
+          "timestamp": "2025-07-06T12:12:39.244Z"
+        }
+      ],
+      "status": "submitted",
+      "createdAt": "2025-01-10T20:39:14.921Z",
+      "updatedAt": "2025-06-19T14:50:32.754Z",
+      "estimatedServiceTime": "2026-02-10T19:08:00.420Z",
+      "actualServiceTime": "2025-12-04T00:19:35.759Z",
+      "technicianId": "1d579916-3ad0-4eca-8ff8-4cf5e8982973",
+      "technicianName": "Marsha Gutmann",
+      "technicianPhone": "377.667.1595 x9008",
+      "serviceNotes": "Ver sursum stabilis demergo ceno pecco vitium. Subseco candidus adeptio a. Vulgaris armarium vespillo vindico arca ullus sequi.",
+      "invoiceId": "633c929d-581d-4313-994c-261080f95c76"
+    },
+    {
+      "id": "6a6ee09d-7153-468b-9af0-086ab85db7f3",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "vehicleId": "8a80c8b9-a521-4e11-b55d-5bdebe2ca262",
+      "vehicleVIN": "6YK0KJ4ZEKL930082",
+      "requestorId": "ffe3e0d6-df38-4a3b-9008-ebd2fc1dcaca",
+      "location": {
+        "latitude": 28.7115,
+        "longitude": -85.5098,
+        "address": "5031 O'Reilly Station"
+      },
+      "issueType": "puncture",
+      "priority": "scheduled",
+      "description": "Volo denuo venio omnis usque caritas viduo taceo. Aduro nobis bibo circumvenio. Aliqua creptio alienus.",
+      "photos": [
+        {
+          "id": "27d73667-1d3a-4438-912c-b5f304bff45e",
+          "uri": "https://picsum.photos/seed/w1FUN/488/293",
+          "thumbnail": "https://loremflickr.com/3486/884?lock=7825926029084403",
+          "description": "Accusantium tabernus commodi thermae audeo voluptatem admitto basium quisquam.",
+          "timestamp": "2025-12-02T04:25:54.789Z"
+        },
+        {
+          "id": "79235486-278a-46cf-b30c-5336aad8bf76",
+          "uri": "https://loremflickr.com/2675/2344?lock=1510962702230740",
+          "thumbnail": "https://picsum.photos/seed/pSmOMf/3844/659",
+          "description": "Audeo voluptate doloremque culpa termes vergo.",
+          "timestamp": "2025-08-05T08:41:53.699Z"
+        }
+      ],
+      "status": "completed",
+      "createdAt": "2025-02-07T10:40:34.750Z",
+      "updatedAt": "2025-06-02T11:17:42.069Z",
+      "estimatedServiceTime": "2026-11-09T04:17:59.407Z",
+      "actualServiceTime": "2025-12-03T10:40:04.878Z",
+      "technicianId": "b2990a9b-0a6e-49a3-a404-c9de3897d9e8",
+      "technicianName": "Glenn Parisian-Osinski",
+      "technicianPhone": "724.441.1419 x1970",
+      "serviceNotes": "Aqua ab dicta timidus. Bene dapifer teres decens corrumpo certe spiculum agnosco uter. Alius quod amita ars cum.",
+      "invoiceId": "32c2a8f2-e931-458f-b1f6-2b5e50582822"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "6aec2648-2928-4bd4-91f2-3839268dde93",
+      "serviceRequestId": "0ae94f99-c652-428f-bab1-21178c341033",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "amount": 220.96,
+      "tax": 17.6768,
+      "total": 238.6368,
+      "status": "paid",
+      "lineItems": [
+        {
+          "id": "a077901d-f10f-402c-9189-c849ce66f1a7",
+          "description": "Tasty Marble Gloves",
+          "quantity": 2,
+          "unitPrice": 110.48,
+          "total": 220.96,
+          "category": "service"
+        }
+      ],
+      "poNumber": "WEM0BL4B",
+      "costCenter": "NURKTA",
+      "approvedBy": "Malcolm Cruickshank",
+      "approvedAt": "2025-12-03T07:37:27.668Z",
+      "createdAt": "2025-03-06T15:57:16.981Z",
+      "dueDate": "2026-06-08T15:52:45.160Z"
+    },
+    {
+      "id": "3fcc1e83-a38c-4a18-b419-b91b46091b95",
+      "serviceRequestId": "f5db4187-d1ea-4d2d-b6c9-5c54705f1b46",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "amount": 1843.47,
+      "tax": 147.4776,
+      "total": 1990.9476,
+      "status": "approved",
+      "lineItems": [
+        {
+          "id": "22ab1ee2-d43c-4b4a-9d40-d65996644c45",
+          "description": "Small Silk Hat",
+          "quantity": 3,
+          "unitPrice": 89.99,
+          "total": 269.96999999999997,
+          "category": "service"
+        },
+        {
+          "id": "764886b6-4c9d-4f03-8c81-2d431c7547cb",
+          "description": "Electronic Ceramic Bike",
+          "quantity": 3,
+          "unitPrice": 103.36,
+          "total": 310.08,
+          "category": "service"
+        },
+        {
+          "id": "2d6be678-cbfa-4fd8-938c-47777a659fe0",
+          "description": "Sleek Ceramic Chips",
+          "quantity": 3,
+          "unitPrice": 292.98,
+          "total": 878.94,
+          "category": "tire"
+        },
+        {
+          "id": "40c0508d-0869-49bc-ba2e-86ab7c1b5c88",
+          "description": "Electronic Wooden Mouse",
+          "quantity": 3,
+          "unitPrice": 128.16,
+          "total": 384.48,
+          "category": "tire"
+        }
+      ],
+      "poNumber": "BIKQ6TI1",
+      "costCenter": "1IPNWN",
+      "approvedBy": "Wilbur Goodwin",
+      "approvedAt": "2025-12-04T03:26:18.194Z",
+      "createdAt": "2025-09-28T15:05:45.229Z",
+      "dueDate": "2025-12-27T19:26:56.532Z"
+    },
+    {
+      "id": "3f651158-f92e-4e7f-9647-d60b5efbda4c",
+      "serviceRequestId": "e327540f-98a3-4e4b-8c54-02ff7ad69563",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "amount": 766.71,
+      "tax": 61.336800000000004,
+      "total": 828.0468000000001,
+      "status": "disputed",
+      "lineItems": [
+        {
+          "id": "3c08fc1b-2bd4-43d6-9a27-8d0e1d3b0671",
+          "description": "Handcrafted Steel Bacon",
+          "quantity": 1,
+          "unitPrice": 97.63,
+          "total": 97.63,
+          "category": "tire"
+        },
+        {
+          "id": "90721bee-938d-4109-adfb-86c1e4c1d994",
+          "description": "Bespoke Steel Cheese",
+          "quantity": 4,
+          "unitPrice": 167.27,
+          "total": 669.08,
+          "category": "service"
+        }
+      ],
+      "poNumber": "5YGWXI6U",
+      "costCenter": "YMWU07",
+      "approvedBy": "Cornelius White",
+      "approvedAt": "2025-12-03T09:33:22.469Z",
+      "createdAt": "2025-05-16T05:33:34.676Z",
+      "dueDate": "2026-03-02T21:13:06.531Z"
+    },
+    {
+      "id": "a0241f56-cf2a-4f1d-973a-648792d6391b",
+      "serviceRequestId": "2f570d30-9c84-4217-af0a-a13b3d973170",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "amount": 3383.01,
+      "tax": 270.6408,
+      "total": 3653.6508000000003,
+      "status": "pending",
+      "lineItems": [
+        {
+          "id": "8d425678-ac88-461f-88de-a5b965b88f84",
+          "description": "Modern Metal Bacon",
+          "quantity": 4,
+          "unitPrice": 418.63,
+          "total": 1674.52,
+          "category": "service"
+        },
+        {
+          "id": "a08e3398-ff68-4266-a7a7-226a3a415461",
+          "description": "Ergonomic Bronze Chips",
+          "quantity": 1,
+          "unitPrice": 175.74,
+          "total": 175.74,
+          "category": "labor"
+        },
+        {
+          "id": "eda07c9f-7002-4ab2-99b8-75a23ffe3c27",
+          "description": "Oriental Marble Pizza",
+          "quantity": 1,
+          "unitPrice": 160.79,
+          "total": 160.79,
+          "category": "labor"
+        },
+        {
+          "id": "826897dd-69d6-4c6b-a8a5-52baae4f999c",
+          "description": "Refined Plastic Shoes",
+          "quantity": 4,
+          "unitPrice": 342.99,
+          "total": 1371.96,
+          "category": "labor"
+        }
+      ],
+      "poNumber": "DOJCUV8Y",
+      "costCenter": "AEARMT",
+      "approvedBy": "Jeanne Bechtelar",
+      "approvedAt": "2025-12-03T21:24:24.221Z",
+      "createdAt": "2025-11-21T04:55:24.720Z",
+      "dueDate": "2026-04-12T15:26:07.219Z"
+    },
+    {
+      "id": "82245f15-5cb2-4eb8-b98c-a90ce195e21f",
+      "serviceRequestId": "4c795d50-de13-482a-a9d3-1c9abf953eaf",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "amount": 314.34000000000003,
+      "tax": 25.1472,
+      "total": 339.48720000000003,
+      "status": "approved",
+      "lineItems": [
+        {
+          "id": "b629cbb1-d1d4-46bc-a363-3a2c936c32ef",
+          "description": "Practical Rubber Shirt",
+          "quantity": 3,
+          "unitPrice": 104.78,
+          "total": 314.34000000000003,
+          "category": "parts"
+        }
+      ],
+      "poNumber": "RFGPTEN5",
+      "costCenter": "NG0HPE",
+      "approvedBy": "Ernesto Cremin",
+      "approvedAt": "2025-12-03T10:38:23.796Z",
+      "createdAt": "2025-10-24T22:31:04.381Z",
+      "dueDate": "2026-03-14T14:30:06.882Z"
+    },
+    {
+      "id": "afa22434-a32c-4aff-99bd-64cba5a9546a",
+      "serviceRequestId": "076679f5-2d64-46f1-b7aa-52c9d02591d0",
+      "fleetId": "8c4b2432-64a4-4149-b33f-83a4e32fc8c4",
+      "amount": 253.18,
+      "tax": 20.2544,
+      "total": 273.4344,
+      "status": "disputed",
+      "lineItems": [
+        {
+          "id": "022f7856-f739-48dc-808f-d34bafbe5def",
+          "description": "Fantastic Steel Chair",
+          "quantity": 2,
+          "unitPrice": 126.59,
+          "total": 253.18,
+          "category": "parts"
+        }
+      ],
+      "poNumber": "JNTYX6CL",
+      "costCenter": "CP7TRQ",
+      "approvedBy": "Alexander Bogisich I",
+      "approvedAt": "2025-12-03T05:43:38.998Z",
+      "createdAt": "2024-12-08T19:56:34.496Z",
+      "dueDate": "2026-12-03T16:37:10.805Z"
+    },
+    {
+      "id": "dbea4234-84eb-4836-bd95-8629ca68211d",
+      "serviceRequestId": "7e024325-4c20-4005-99d2-2f19022d0819",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "amount": 2639.3599999999997,
+      "tax": 211.14879999999997,
+      "total": 2850.5087999999996,
+      "status": "approved",
+      "lineItems": [
+        {
+          "id": "2cc48615-8c98-47e4-918b-2604e17b23d4",
+          "description": "Modern Steel Shirt",
+          "quantity": 2,
+          "unitPrice": 466.05,
+          "total": 932.1,
+          "category": "parts"
+        },
+        {
+          "id": "34bd09a5-b657-4e7f-9b32-08cf3024a29d",
+          "description": "Sleek Steel Computer",
+          "quantity": 2,
+          "unitPrice": 96.33,
+          "total": 192.66,
+          "category": "parts"
+        },
+        {
+          "id": "28cf934b-e45d-488b-a222-6acc9cd1e411",
+          "description": "Frozen Rubber Towels",
+          "quantity": 2,
+          "unitPrice": 397.46,
+          "total": 794.92,
+          "category": "labor"
+        },
+        {
+          "id": "ddeb00f2-5a75-4ad6-975b-3a32a0b7fbba",
+          "description": "Generic Bamboo Ball",
+          "quantity": 2,
+          "unitPrice": 359.84,
+          "total": 719.68,
+          "category": "tire"
+        }
+      ],
+      "poNumber": "DIZLFBPJ",
+      "costCenter": "HC7S9D",
+      "approvedBy": "Margarita Zulauf",
+      "approvedAt": "2025-12-03T20:50:31.281Z",
+      "createdAt": "2025-04-06T01:01:50.853Z",
+      "dueDate": "2026-10-02T08:29:14.433Z"
+    },
+    {
+      "id": "369b49a4-abfd-401e-95ca-41879d460e51",
+      "serviceRequestId": "4c795d50-de13-482a-a9d3-1c9abf953eaf",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "amount": 664.77,
+      "tax": 53.1816,
+      "total": 717.9516,
+      "status": "pending",
+      "lineItems": [
+        {
+          "id": "69ba1055-c2c5-43c7-8239-aea8027a1750",
+          "description": "Elegant Steel Ball",
+          "quantity": 3,
+          "unitPrice": 221.59,
+          "total": 664.77,
+          "category": "parts"
+        }
+      ],
+      "poNumber": "Y0VQFSEF",
+      "costCenter": "K4LZVR",
+      "approvedBy": "Eddie Graham DVM",
+      "approvedAt": "2025-12-04T00:21:24.021Z",
+      "createdAt": "2025-02-16T16:51:11.928Z",
+      "dueDate": "2025-12-20T19:30:05.028Z"
+    },
+    {
+      "id": "f4c6dbdd-318b-448f-847d-1998db7e616a",
+      "serviceRequestId": "e93a78d2-c768-491c-aba9-cb4ccd39678e",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "amount": 2801.44,
+      "tax": 224.11520000000002,
+      "total": 3025.5552000000002,
+      "status": "approved",
+      "lineItems": [
+        {
+          "id": "e0728707-2b1e-422e-b350-5f4c516ea2a7",
+          "description": "Recycled Plastic Towels",
+          "quantity": 4,
+          "unitPrice": 399.89,
+          "total": 1599.56,
+          "category": "tire"
+        },
+        {
+          "id": "14394525-3d5e-4314-b98b-1c794c4dbf26",
+          "description": "Awesome Steel Towels",
+          "quantity": 4,
+          "unitPrice": 300.47,
+          "total": 1201.88,
+          "category": "parts"
+        }
+      ],
+      "poNumber": "TZFSSREX",
+      "costCenter": "MZXWJZ",
+      "approvedBy": "Owen Nienow",
+      "approvedAt": "2025-12-04T02:30:32.672Z",
+      "createdAt": "2025-09-25T18:59:08.924Z",
+      "dueDate": "2026-05-31T20:16:07.787Z"
+    },
+    {
+      "id": "7a43f46c-7eae-4941-96a5-4a4afc76e608",
+      "serviceRequestId": "73bc6253-affc-41b0-bf0c-b59f314201b3",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "amount": 1571.0400000000002,
+      "tax": 125.68320000000001,
+      "total": 1696.7232000000001,
+      "status": "approved",
+      "lineItems": [
+        {
+          "id": "de90fd0f-33ff-4e72-871a-a26c0a7a480d",
+          "description": "Handcrafted Gold Sausages",
+          "quantity": 4,
+          "unitPrice": 51.85,
+          "total": 207.4,
+          "category": "tire"
+        },
+        {
+          "id": "7248e0b6-c290-4bab-ab98-2514453ab35c",
+          "description": "Fantastic Plastic Hat",
+          "quantity": 4,
+          "unitPrice": 340.91,
+          "total": 1363.64,
+          "category": "service"
+        }
+      ],
+      "poNumber": "H3PQIJMY",
+      "costCenter": "Q2EZNB",
+      "approvedBy": "Pete Sawayn",
+      "approvedAt": "2025-12-03T04:10:10.841Z",
+      "createdAt": "2025-02-19T13:27:53.409Z",
+      "dueDate": "2026-07-24T19:02:51.940Z"
+    },
+    {
+      "id": "8d55eec7-c1e4-445e-8001-e42117b672a6",
+      "serviceRequestId": "73bc6253-affc-41b0-bf0c-b59f314201b3",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "amount": 1137.48,
+      "tax": 90.9984,
+      "total": 1228.4784,
+      "status": "paid",
+      "lineItems": [
+        {
+          "id": "eb64a66c-434c-40ae-b0c4-5b3e175ab564",
+          "description": "Fresh Metal Shoes",
+          "quantity": 4,
+          "unitPrice": 114.5,
+          "total": 458,
+          "category": "labor"
+        },
+        {
+          "id": "d0aff6d3-478e-42ca-a509-84648a0a91b4",
+          "description": "Awesome Gold Cheese",
+          "quantity": 2,
+          "unitPrice": 58.68,
+          "total": 117.36,
+          "category": "service"
+        },
+        {
+          "id": "46f7d84f-b547-4519-9822-a8197ba51a40",
+          "description": "Small Concrete Towels",
+          "quantity": 4,
+          "unitPrice": 140.53,
+          "total": 562.12,
+          "category": "tire"
+        }
+      ],
+      "poNumber": "24VTK4RQ",
+      "costCenter": "UJOH80",
+      "approvedBy": "Dr. Christine Haag",
+      "approvedAt": "2025-12-03T20:16:34.970Z",
+      "createdAt": "2025-10-31T13:20:34.189Z",
+      "dueDate": "2026-04-20T18:46:09.760Z"
+    },
+    {
+      "id": "9ecff2e5-a627-46d4-aac9-c2f790f0cbfc",
+      "serviceRequestId": "f10b8b6e-a249-4afa-bf6c-60bfe6d3b5fa",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "amount": 2767.6900000000005,
+      "tax": 221.41520000000006,
+      "total": 2989.1052000000004,
+      "status": "disputed",
+      "lineItems": [
+        {
+          "id": "6e8f5a34-f577-4c42-a342-a50a2530e3e8",
+          "description": "Licensed Marble Pants",
+          "quantity": 2,
+          "unitPrice": 401.36,
+          "total": 802.72,
+          "category": "tire"
+        },
+        {
+          "id": "97c76d2f-461c-4c06-a5b9-d69abe7da410",
+          "description": "Recycled Bamboo Ball",
+          "quantity": 4,
+          "unitPrice": 370.98,
+          "total": 1483.92,
+          "category": "service"
+        },
+        {
+          "id": "dea2c7fb-1eb5-40b4-83d8-0959f43f848a",
+          "description": "Elegant Wooden Car",
+          "quantity": 3,
+          "unitPrice": 160.35,
+          "total": 481.04999999999995,
+          "category": "tire"
+        }
+      ],
+      "poNumber": "AKD2QIO3",
+      "costCenter": "JFUQLB",
+      "approvedBy": "Francisco Rowe",
+      "approvedAt": "2025-12-03T10:16:54.306Z",
+      "createdAt": "2024-12-26T07:48:26.050Z",
+      "dueDate": "2026-07-03T16:23:28.445Z"
+    },
+    {
+      "id": "4becc70f-53c6-4c5b-9b12-622bec064156",
+      "serviceRequestId": "97dd9239-042c-4cfa-abf2-5933008b0413",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "amount": 1180.38,
+      "tax": 94.4304,
+      "total": 1274.8104,
+      "status": "approved",
+      "lineItems": [
+        {
+          "id": "3c56e4ef-7c93-4411-b9ee-87553af6b063",
+          "description": "Oriental Steel Chicken",
+          "quantity": 3,
+          "unitPrice": 99.12,
+          "total": 297.36,
+          "category": "parts"
+        },
+        {
+          "id": "b204170c-0abc-48b6-92a7-50b71ed3a32c",
+          "description": "Intelligent Wooden Mouse",
+          "quantity": 3,
+          "unitPrice": 294.34,
+          "total": 883.02,
+          "category": "service"
+        }
+      ],
+      "poNumber": "9J0WUZP9",
+      "costCenter": "EJAX0D",
+      "approvedBy": "Susan Price",
+      "approvedAt": "2025-12-03T08:38:18.421Z",
+      "createdAt": "2025-04-08T13:15:17.331Z",
+      "dueDate": "2026-11-22T22:42:26.274Z"
+    },
+    {
+      "id": "5d146583-4bd9-4a27-8dca-f4201c5ffc8a",
+      "serviceRequestId": "990fa16f-6acb-4aa0-be04-169c290d5386",
+      "fleetId": "c1fa02e8-987a-4bce-b5e3-87d0d430b244",
+      "amount": 3122.6400000000003,
+      "tax": 249.81120000000004,
+      "total": 3372.4512000000004,
+      "status": "pending",
+      "lineItems": [
+        {
+          "id": "8b8c2db6-bc07-4f8b-a0c6-1e11b4721e59",
+          "description": "Generic Marble Pants",
+          "quantity": 4,
+          "unitPrice": 447.62,
+          "total": 1790.48,
+          "category": "labor"
+        },
+        {
+          "id": "f7322d56-becc-43ac-9b45-1f805c443432",
+          "description": "Handcrafted Marble Car",
+          "quantity": 4,
+          "unitPrice": 333.04,
+          "total": 1332.16,
+          "category": "labor"
+        }
+      ],
+      "poNumber": "ROTJ8LBL",
+      "costCenter": "JZDGMC",
+      "approvedBy": "Tommy Schiller Sr.",
+      "approvedAt": "2025-12-03T23:40:50.285Z",
+      "createdAt": "2025-03-30T04:24:07.843Z",
+      "dueDate": "2026-01-23T13:47:18.852Z"
+    },
+    {
+      "id": "75ca77cb-c769-4350-a68f-d605b213328d",
+      "serviceRequestId": "7e024325-4c20-4005-99d2-2f19022d0819",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "amount": 3841.71,
+      "tax": 307.3368,
+      "total": 4149.0468,
+      "status": "disputed",
+      "lineItems": [
+        {
+          "id": "d4007758-531e-4e29-8fc4-9b14d13dc58c",
+          "description": "Small Bronze Table",
+          "quantity": 3,
+          "unitPrice": 348.3,
+          "total": 1044.9,
+          "category": "parts"
+        },
+        {
+          "id": "6f1f5bb9-9630-44c2-adc9-3fb5bd914242",
+          "description": "Small Cotton Gloves",
+          "quantity": 3,
+          "unitPrice": 446.49,
+          "total": 1339.47,
+          "category": "service"
+        },
+        {
+          "id": "5499bd30-e7ec-48ad-bedf-cf9949e9c72c",
+          "description": "Ergonomic Aluminum Hat",
+          "quantity": 4,
+          "unitPrice": 130.76,
+          "total": 523.04,
+          "category": "tire"
+        },
+        {
+          "id": "478f2929-feb2-46e1-a993-7db1627cbed2",
+          "description": "Intelligent Aluminum Car",
+          "quantity": 1,
+          "unitPrice": 451.72,
+          "total": 451.72,
+          "category": "labor"
+        },
+        {
+          "id": "1cfe7d5f-4fb6-4af7-b884-c367a0bcd8cb",
+          "description": "Gorgeous Silk Chair",
+          "quantity": 1,
+          "unitPrice": 482.58,
+          "total": 482.58,
+          "category": "service"
+        }
+      ],
+      "poNumber": "WQACJJIU",
+      "costCenter": "I91UCL",
+      "approvedBy": "Garry Rogahn II",
+      "approvedAt": "2025-12-03T18:05:42.473Z",
+      "createdAt": "2025-09-03T15:48:54.717Z",
+      "dueDate": "2026-06-16T01:12:48.556Z"
+    },
+    {
+      "id": "24b26c81-5e01-41e9-98f5-e8910be85a4c",
+      "serviceRequestId": "e93a78d2-c768-491c-aba9-cb4ccd39678e",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "amount": 1294.43,
+      "tax": 103.5544,
+      "total": 1397.9844,
+      "status": "disputed",
+      "lineItems": [
+        {
+          "id": "68d5373a-7345-46d2-a3ed-43da893ef451",
+          "description": "Modern Bronze Chicken",
+          "quantity": 3,
+          "unitPrice": 84.91,
+          "total": 254.73,
+          "category": "tire"
+        },
+        {
+          "id": "93e7118b-b093-4009-b725-47c38b54f743",
+          "description": "Oriental Metal Mouse",
+          "quantity": 2,
+          "unitPrice": 418.65,
+          "total": 837.3,
+          "category": "tire"
+        },
+        {
+          "id": "0c61cba5-73b4-46e6-8e2c-46c754ce5635",
+          "description": "Small Rubber Cheese",
+          "quantity": 2,
+          "unitPrice": 101.2,
+          "total": 202.4,
+          "category": "parts"
+        }
+      ],
+      "poNumber": "NPIHWGMC",
+      "costCenter": "C55OXF",
+      "approvedBy": "Krista Crooks-O'Conner",
+      "approvedAt": "2025-12-03T11:34:03.073Z",
+      "createdAt": "2025-09-03T01:28:10.064Z",
+      "dueDate": "2026-09-25T17:47:20.268Z"
+    },
+    {
+      "id": "69574448-bd4f-4f75-98a2-cca06ac548b8",
+      "serviceRequestId": "e327540f-98a3-4e4b-8c54-02ff7ad69563",
+      "fleetId": "b258180e-c3b4-4aa3-894b-aa0b544c3d8d",
+      "amount": 367.86,
+      "tax": 29.428800000000003,
+      "total": 397.28880000000004,
+      "status": "disputed",
+      "lineItems": [
+        {
+          "id": "c7c6ba78-e28a-435c-9790-740b36046f71",
+          "description": "Modern Concrete Pizza",
+          "quantity": 1,
+          "unitPrice": 367.86,
+          "total": 367.86,
+          "category": "parts"
+        }
+      ],
+      "poNumber": "8QCD2HYF",
+      "costCenter": "KLMCZR",
+      "approvedBy": "Delia Boyle",
+      "approvedAt": "2025-12-04T00:15:35.128Z",
+      "createdAt": "2025-09-22T22:03:46.143Z",
+      "dueDate": "2026-04-05T07:41:51.166Z"
+    },
+    {
+      "id": "1426f027-6ce3-4977-9132-c50e87f1d2b5",
+      "serviceRequestId": "00799102-135d-4c01-a75f-23bd7dc144db",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "amount": 818.86,
+      "tax": 65.50880000000001,
+      "total": 884.3688,
+      "status": "paid",
+      "lineItems": [
+        {
+          "id": "a72617b0-42d0-4dfa-9d74-0cbad1d9bd97",
+          "description": "Frozen Aluminum Pizza",
+          "quantity": 4,
+          "unitPrice": 185.8,
+          "total": 743.2,
+          "category": "parts"
+        },
+        {
+          "id": "afd3ffdf-797b-4240-9d69-df0225c43fd9",
+          "description": "Rustic Aluminum Ball",
+          "quantity": 1,
+          "unitPrice": 75.66,
+          "total": 75.66,
+          "category": "service"
+        }
+      ],
+      "poNumber": "EMPNENUZ",
+      "costCenter": "M6YPQX",
+      "approvedBy": "Alvin Labadie",
+      "approvedAt": "2025-12-03T17:22:22.331Z",
+      "createdAt": "2025-10-19T03:11:52.963Z",
+      "dueDate": "2025-12-06T00:37:44.924Z"
+    },
+    {
+      "id": "b75f7640-f75a-48bf-ab2d-0fa837f66372",
+      "serviceRequestId": "f5db4187-d1ea-4d2d-b6c9-5c54705f1b46",
+      "fleetId": "4c03e91e-50d8-4988-b16b-7846134fdd35",
+      "amount": 2342.56,
+      "tax": 187.4048,
+      "total": 2529.9647999999997,
+      "status": "pending",
+      "lineItems": [
+        {
+          "id": "3532233d-a967-4acb-b477-1714c3b59617",
+          "description": "Frozen Gold Sausages",
+          "quantity": 2,
+          "unitPrice": 488.19,
+          "total": 976.38,
+          "category": "service"
+        },
+        {
+          "id": "4e95850c-ec87-44ff-9264-094361b79e76",
+          "description": "Incredible Ceramic Cheese",
+          "quantity": 4,
+          "unitPrice": 269.82,
+          "total": 1079.28,
+          "category": "tire"
+        },
+        {
+          "id": "0d63d9cc-fcfb-4126-bf15-a4750fb58bb2",
+          "description": "Frozen Metal Keyboard",
+          "quantity": 1,
+          "unitPrice": 286.9,
+          "total": 286.9,
+          "category": "service"
+        }
+      ],
+      "poNumber": "B2X2P1DN",
+      "costCenter": "5SFOQX",
+      "approvedBy": "Devin Rice",
+      "approvedAt": "2025-12-03T11:17:26.870Z",
+      "createdAt": "2025-03-19T23:47:04.010Z",
+      "dueDate": "2026-02-14T03:23:43.348Z"
+    },
+    {
+      "id": "ee1cc18a-e8fa-480b-a0b4-b5240c542df1",
+      "serviceRequestId": "8ea0db23-8401-4251-aa66-be936c08bd7d",
+      "fleetId": "6cd954e0-ea11-4c16-8ea9-6e3fca8499d6",
+      "amount": 906.4,
+      "tax": 72.512,
+      "total": 978.912,
+      "status": "paid",
+      "lineItems": [
+        {
+          "id": "09a9296a-92de-4605-b64b-d20f805bda8b",
+          "description": "Gorgeous Silk Cheese",
+          "quantity": 4,
+          "unitPrice": 226.6,
+          "total": 906.4,
+          "category": "tire"
+        }
+      ],
+      "poNumber": "1FWMKRCX",
+      "costCenter": "KXXLRN",
+      "approvedBy": "Cassandra Dare",
+      "approvedAt": "2025-12-03T17:51:49.629Z",
+      "createdAt": "2025-10-14T16:34:57.840Z",
+      "dueDate": "2026-07-20T21:52:39.908Z"
+    }
+  ],
+  "auth": {
+    "login": {
+      "user": {
+        "id": "615ec3ac-6644-46a9-91e7-b38355dc4449",
+        "email": "Muhammad_Little@yahoo.com",
+        "firstName": "Muhammad",
+        "lastName": "Little",
+        "role": "admin",
+        "fleetIds": [
+          "35154d4a-ad1f-4ff1-ba7e-fa829e68db49",
+          "a9b917d4-9faf-488e-8454-fceada4c98b3"
+        ],
+        "phoneNumber": "(228) 864-6038 x1179",
+        "createdAt": "2025-11-28T02:42:18.234Z",
+        "lastLoginAt": "2025-12-03T15:52:20.937Z"
+      },
+      "token": "mock-jwt-token-S3UPKGL5K0QD3oSNbyDM"
+    }
+  }
+}
