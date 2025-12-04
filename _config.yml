@@ -1,0 +1,23 @@
+# GitHub Pages configuration for Bridgestone Fleet Management
+title: Bridgestone Fleet Management
+description: A comprehensive React Native fleet management application
+url: "https://tomdahl21.github.io"
+baseurl: "/Bridgestone"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files from build
+exclude:
+  - node_modules/
+  - BridgestoneFleet/
+  - mock-api/
+  - .gitignore
+  - PROJECT_CONTEXT.md
+  - docs/README.md
