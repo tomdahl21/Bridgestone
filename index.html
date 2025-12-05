@@ -40,14 +40,44 @@
             background: #f0f0f0; 
         }
     </style>
+    <script>
+        function launchApp() {
+            // Try to open with Expo Go first
+            const expoUrl = 'exp://exp.host/@tomdahl21/BridgestoneFleet';
+            const fallbackUrl = 'https://expo.dev/@tomdahl21/BridgestoneFleet';
+            
+            // Show instructions
+            document.getElementById('app-instructions').style.display = 'block';
+            
+            // Try to launch app (works on mobile with Expo Go installed)
+            window.location.href = expoUrl;
+            
+            // Fallback after a short delay
+            setTimeout(() => {
+                // If still on the page, open Expo web instead
+                window.open(fallbackUrl, '_blank');
+            }, 1000);
+        }
+    </script>
 </head>
 <body>
     <div class="container">
         <h1>🚗 Bridgestone Fleet Management</h1>
         <p>A comprehensive React Native fleet management application</p>
         <p><strong>Features:</strong> Biometric Authentication | Service Request Wizard | Fleet Dashboard | Invoice Management</p>
-        <a href="exp://tomdahl21.github.io/Bridgestone" class="btn">🚀 Launch App</a>
-        <a href="https://github.com/tomdahl21/Bridgestone" class="btn" style="background: transparent; color: white; border: 2px solid white;">View on GitHub</a>
+        <div style="margin: 20px 0;">
+            <a href="#" class="btn" onclick="launchApp()">📱 Launch App</a>
+            <a href="https://github.com/tomdahl21/Bridgestone" class="btn" style="background: transparent; color: white; border: 2px solid white;">View on GitHub</a>
+        </div>
+        <div id="app-instructions" style="display: none; margin: 20px 0; padding: 20px; background: rgba(255,255,255,0.1); border-radius: 10px;">
+            <h3>📱 How to Launch the App:</h3>
+            <p><strong>Option 1:</strong> Install Expo Go app on your phone, then scan this QR code:</p>
+            <div style="background: white; padding: 10px; border-radius: 5px; display: inline-block; margin: 10px 0;">
+                <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=exp://exp.host/@tomdahl21/BridgestoneFleet" alt="QR Code" style="display: block;">
+            </div>
+            <p><strong>Option 2:</strong> Open Expo Go and search for "BridgestoneFleet" by @tomdahl21</p>
+            <p><strong>Option 3:</strong> <a href="https://expo.dev/@tomdahl21/BridgestoneFleet" style="color: white; text-decoration: underline;">View on Expo</a></p>
+        </div>
         <p style="margin-top: 40px; font-size: 1rem; opacity: 0.9;">
             Built with React Native, Expo SDK 50, TypeScript, and Material Design 3
         </p>
