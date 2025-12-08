@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridgestone Fleet Management - Live Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #C8102E, #A00E26);
+            color: white;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        .demo-container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            min-height: 100vh;
+            background: #fff;
+            color: #333;
+            box-shadow: 0 0 20px rgba(0,0,0,0.3);
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #C8102E, #A00E26);
+            color: white;
+            padding: 20px;
+            margin: -20px -20px 20px -20px;
+            text-align: center;
+        }
+        
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        
+        .tagline {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+        
+        .nav-tabs {
+            display: flex;
+            background: #f5f5f5;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+        
+        .nav-tab {
+            flex: 1;
+            padding: 12px 8px;
+            text-align: center;
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 12px;
+            color: #666;
+            transition: all 0.3s;
+        }
+        
+        .nav-tab.active {
+            background: #C8102E;
+            color: white;
+        }
+        
+        .screen {
+            display: none;
+        }
+        
+        .screen.active {
+            display: block;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            border: 1px solid #e0e0e0;
+        }
+        
+        .card-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #C8102E;
+            margin-bottom: 8px;
+        }
+        
+        .card-content {
+            color: #666;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+        
+        .stat-card {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 12px;
+            text-align: center;
+            border: 1px solid #e9ecef;
+        }
+        
+        .stat-number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #C8102E;
+        }
+        
+        .stat-label {
+            font-size: 12px;
+            color: #666;
+            margin-top: 4px;
+        }
+        
+        .progress-bar {
+            background: #e0e0e0;
+            border-radius: 10px;
+            height: 8px;
+            margin: 8px 0;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            background: #00A651;
+            height: 100%;
+            border-radius: 10px;
+            transition: width 0.3s;
+        }
+        
+        .service-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .service-item:last-child {
+            border-bottom: none;
+        }
+        
+        .service-info h4 {
+            font-size: 14px;
+            margin-bottom: 4px;
+            color: #333;
+        }
+        
+        .service-info p {
+            font-size: 12px;
+            color: #666;
+        }
+        
+        .status-badge {
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 10px;
+            font-weight: 500;
+            text-transform: uppercase;
+        }
+        
+        .status-urgent {
+            background: #ffebee;
+            color: #C8102E;
+        }
+        
+        .status-progress {
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+        
+        .status-completed {
+            background: #e8f5e8;
+            color: #00A651;
+        }
+        
+        .btn {
+            background: #C8102E;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            width: 100%;
+            margin-top: 16px;
+            transition: background 0.3s;
+        }
+        
+        .btn:hover {
+            background: #A00E26;
+        }
+        
+        .vehicle-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .vehicle-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .vehicle-icon {
+            width: 40px;
+            height: 40px;
+            background: #C8102E;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 12px;
+            color: white;
+            font-size: 18px;
+        }
+        
+        .back-link {
+            color: #C8102E;
+            text-decoration: none;
+            font-size: 14px;
+            display: block;
+            text-align: center;
+            margin-top: 40px;
+            padding: 12px;
+            border: 1px solid #C8102E;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+        
+        .back-link:hover {
+            background: #C8102E;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="demo-container">
+        <div class="header">
+            <div class="logo">🚗 Bridgestone Fleet</div>
+            <div class="tagline">Fleet Management Dashboard</div>
+        </div>
+        
+        <div class="nav-tabs">
+            <button class="nav-tab active" onclick="showScreen('dashboard')">Dashboard</button>
+            <button class="nav-tab" onclick="showScreen('fleet')">Fleet</button>
+            <button class="nav-tab" onclick="showScreen('service')">Service</button>
+            <button class="nav-tab" onclick="showScreen('billing')">Billing</button>
+        </div>
+        
+        <!-- Dashboard Screen -->
+        <div id="dashboard" class="screen active">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">24</div>
+                    <div class="stat-label">Total Vehicles</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">22</div>
+                    <div class="stat-label">Active</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">5</div>
+                    <div class="stat-label">Maintenance Due</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">$28.5K</div>
+                    <div class="stat-label">Monthly Spend</div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-title">🚛 Fleet Health Overview</div>
+                <div class="card-content">
+                    <p>Overall fleet health: <strong>92% operational</strong></p>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: 92%"></div>
+                    </div>
+                    <p style="font-size: 12px; margin-top: 8px;">22 of 24 vehicles operational</p>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-title">⚡ Recent Activity</div>
+                <div class="card-content">
+                    <div class="service-item">
+                        <div class="service-info">
+                            <h4>Service Request #SR-2024-103</h4>
+                            <p>Vehicle: FL-2024-089 • Tire Replacement</p>
+                        </div>
+                        <div class="status-badge status-progress">In Progress</div>
+                    </div>
+                    <div class="service-item">
+                        <div class="service-info">
+                            <h4>Emergency Repair #ER-089</h4>
+                            <p>Vehicle: FL-2024-012 • Engine Issue</p>
+                        </div>
+                        <div class="status-badge status-urgent">Urgent</div>
+                    </div>
+                    <div class="service-item">
+                        <div class="service-info">
+                            <h4>Routine Maintenance #RM-245</h4>
+                            <p>Vehicle: FL-2024-067 • Oil Change</p>
+                        </div>
+                        <div class="status-badge status-completed">Completed</div>
+                    </div>
+                </div>
+            </div>
+            
+            <button class="btn" onclick="alert('New Service Request wizard would open here!')">+ New Service Request</button>
+        </div>
+        
+        <!-- Fleet Screen -->
+        <div id="fleet" class="screen">
+            <div class="card">
+                <div class="card-title">🚗 Fleet Overview</div>
+                <div class="vehicle-list">
+                    <div class="vehicle-item">
+                        <div class="vehicle-icon">🚛</div>
+                        <div class="vehicle-info">
+                            <h4>FL-2024-089</h4>
+                            <p>2023 Freightliner Cascadia • Status: Active</p>
+                        </div>
+                    </div>
+                    <div class="vehicle-item">
+                        <div class="vehicle-icon">🚚</div>
+                        <div class="vehicle-info">
+                            <h4>FL-2024-012</h4>
+                            <p>2022 Ford F-450 • Status: In Service</p>
+                        </div>
+                    </div>
+                    <div class="vehicle-item">
+                        <div class="vehicle-icon">🚛</div>
+                        <div class="vehicle-info">
+                            <h4>FL-2024-067</h4>
+                            <p>2023 Kenworth T680 • Status: Active</p>
+                        </div>
+                    </div>
+                    <div class="vehicle-item">
+                        <div class="vehicle-icon">🚐</div>
+                        <div class="vehicle-info">
+                            <h4>FL-2024-156</h4>
+                            <p>2022 Mercedes Sprinter • Status: Active</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Service Screen -->
+        <div id="service" class="screen">
+            <div class="card">
+                <div class="card-title">🔧 Service Requests</div>
+                <div class="card-content">
+                    <div class="service-item">
+                        <div class="service-info">
+                            <h4>Tire Replacement - FL-2024-089</h4>
+                            <p>Location: Denver Service Center</p>
+                            <p>ETA: 2 hours</p>
+                        </div>
+                        <div class="status-badge status-progress">In Progress</div>
+                    </div>
+                    <div class="service-item">
+                        <div class="service-info">
+                            <h4>Engine Diagnostics - FL-2024-012</h4>
+                            <p>Location: Phoenix Repair Shop</p>
+                            <p>Priority: High</p>
+                        </div>
+                        <div class="status-badge status-urgent">Urgent</div>
+                    </div>
+                </div>
+            </div>
+            
+            <button class="btn" onclick="alert('Service request creation wizard would launch!')">+ Create Service Request</button>
+        </div>
+        
+        <!-- Billing Screen -->
+        <div id="billing" class="screen">
+            <div class="card">
+                <div class="card-title">💰 Cost Overview</div>
+                <div class="card-content">
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-number">$28.5K</div>
+                            <div class="stat-label">This Month</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number">$1,187</div>
+                            <div class="stat-label">Avg per Vehicle</div>
+                        </div>
+                    </div>
+                    <p><strong>Recent Invoices:</strong></p>
+                    <div class="service-item">
+                        <div class="service-info">
+                            <h4>Invoice #INV-2024-1205</h4>
+                            <p>Service: Tire Replacement • $450</p>
+                        </div>
+                        <div class="status-badge status-completed">Paid</div>
+                    </div>
+                    <div class="service-item">
+                        <div class="service-info">
+                            <h4>Invoice #INV-2024-1198</h4>
+                            <p>Service: Oil Change • $85</p>
+                        </div>
+                        <div class="status-badge status-progress">Pending</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <a href="../index.html" class="back-link">← Back to Main Site</a>
+    </div>
+    
+    <script>
+        function showScreen(screenId) {
+            // Hide all screens
+            document.querySelectorAll('.screen').forEach(screen => {
+                screen.classList.remove('active');
+            });
+            
+            // Remove active from all tabs
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show selected screen
+            document.getElementById(screenId).classList.add('active');
+            
+            // Activate selected tab
+            event.target.classList.add('active');
+        }
+        
+        // Add some interactive behaviors
+        document.addEventListener('DOMContentLoaded', function() {
+            // Animate progress bars
+            setTimeout(() => {
+                document.querySelectorAll('.progress-fill').forEach(bar => {
+                    const width = bar.style.width;
+                    bar.style.width = '0%';
+                    setTimeout(() => {
+                        bar.style.width = width;
+                    }, 100);
+                });
+            }, 500);
+        });
+    </script>
+</body>
+</html>
